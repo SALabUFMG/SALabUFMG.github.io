@@ -8,7 +8,7 @@ short_name: Wagner Meira
 email: meira@dcc.ufmg.br
 importance: 4
 role: Professor
-one_liner: Parallel and Distributed Processing, Data Mining.
+one_liner: Parallel and Distributed Processing, Data Mining, Sports Analytics.
 personal_page: https://dcc.ufmg.br/professor/wagner-meira-junior/
 scholar_userid: oad6_oEAAAAJ
 github_username: 

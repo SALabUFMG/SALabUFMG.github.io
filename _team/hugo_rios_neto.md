@@ -9,7 +9,7 @@ email: hugoriosneto@dcc.ufmg.br
 importance: 2
 role: MSc Student
 one_liner: Machine Learning, Sports Analytics.
-personal_page: 
+personal_page: https://hugoriosneto.github.io/
 scholar_userid: jtR1qv4AAAAJ
 github_username: hugoriosneto
 twitter_username: hugoriosneto

@@ -8,7 +8,7 @@ short_name: Adriano Pereira
 email: adrianoc@dcc.ufmg.br
 importance: 4
 role: Professor
-one_liner: Quantitative Finance, e-Commerce, Web Systems.
+one_liner: Quantitative Finance, Web Systems, Sports Analytics.
 personal_page: https://dcc.ufmg.br/professor/adriano-cesar-machado-pereira/
 scholar_userid: MT9oSSwAAAAJ
 github_username: 
