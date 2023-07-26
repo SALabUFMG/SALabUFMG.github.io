@@ -8,7 +8,7 @@ middle_name:
 last_name: SALab
 email: salab.dcc.ufmg@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The Sports Analytics Lab at the <a href='https://ufmg.br/'>Federal University of Minas Gerais (UFMG)</a> - the first of its kind in Brazil!
+  The Sports Analytics Lab at the Federal University of Minas Gerais (UFMG) - the first of its kind in Brazil!
 footer_text: >
 keywords:  # add your own keywords or leave empty
 
@@ -17,7 +17,7 @@ icon: salab-logo.jpg # the emoji used as the favicon (alternatively, provide ima
 
 url: https://SALabUFMG.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
