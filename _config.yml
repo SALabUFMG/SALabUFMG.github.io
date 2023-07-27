@@ -168,12 +168,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  course:
     output: true
-    permalink: /projects/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
+    permalink: /dsaf/:path/
   team:
     output: true
     permalink: /team/:path/
