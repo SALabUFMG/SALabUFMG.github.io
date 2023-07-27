@@ -17,6 +17,8 @@ However, there were students from Engineering majors that took the course as an 
 <a href='https://dcc.ufmg.br/professor/wagner-meira-junior/'>Wagner Meira Jr.</a>, 
 <a href='https://dcc.ufmg.br/professor/adriano-cesar-machado-pereira/'>Adriano Pereira</a> and Master's student 
 <a href='https://hugoriosneto.github.io/'>Hugo Rios-Neto</a>, who served as a teaching assistant. 
+The course <strong>syllabus</strong> is available, in Portuguese, 
+<a href='https://docs.google.com/document/d/181RvYa94wxLDB7S6A9AHajWYVwHF1C9wNIGuzfPPSO0/edit'>here</a>.
 Also, Master's student <a href='https://luizacbcampos.github.io/'>Luíza Campos</a> played a crucial part in the course running well, 
 preparing almost the entirety of the slides. The plan is for DSAF to be offered once per year, during the first semester.
 
