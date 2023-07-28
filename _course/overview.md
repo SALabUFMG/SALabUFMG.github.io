@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Overview
-description: An overview of the Data Science Applied to Football course.
+title: Course Overview
+description: 
 img: assets/img/DSAF/overview.jpg
 importance: 1
 category: work
 related_publications: 
 ---
+<hr>
 
-<h3>Data Science Applied to Football (DSAF)</h3>
 Welcome to <strong>"Data Science Applied to Football"</strong>, an innovative course uniquely designed to provide a comprehensive understanding of how data science 
 techniques can be applied to the world of football. 
 
