@@ -16,11 +16,11 @@ related_publications:
 <br>
 <hr>
 <br>
-You can download the Jupyter notebook below <a href='/assets/jupyter/ativ_1.ipynb'>here</a>
+You can download the Jupyter notebook below <a href='https://github.com/SALabUFMG/SALabUFMG.github.io/blob/master/assets/jupyter/exercise_1.ipynb'>here</a>
 
 {::nomarkdown}
-{% assign jupyter_path = "./assets/jupyter/ativ_1.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists ./assets/jupyter/ativ_1.ipynb %}{% endcapture %}
+{% assign jupyter_path = "./assets/jupyter/exercise_1.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists ./assets/jupyter/exercise_1.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
