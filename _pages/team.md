@@ -5,6 +5,8 @@ permalink: /team/
 nav: true
 nav_order: 1
 display_categories: [Faculty, PhD-Students, MSc-Students, BS-Students, Alumni]
+social: true  # includes social icons at the bottom of the page
+
 ---
 
 <!-- pages/team.md -->
@@ -30,5 +32,3 @@ display_categories: [Faculty, PhD-Students, MSc-Students, BS-Students, Alumni]
 
 
 ---
-
-### Interested in Joining?
