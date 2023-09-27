@@ -31,5 +31,5 @@ Enviar submissões para:
 - **salab.dcc.ufmg@gmail.com**
 
 ### Datas Importantes
-- **Submissão:** até 05/11/23 às 23h59
-- **Aceite:** 10/11/23
+- **Submissão:** até ??/??/?? às 23h59
+- **Aceite:** ??/??/??

@@ -25,5 +25,5 @@ related_publications:
     A variedade de perspectivas e o diálogo aberto durante o FAME 2022 enfatizaram a <strong>importância da colaboração entre os 
     diversos setores da indústria do futebol</strong>. Ficou evidente o papel transformador da análise de dados na tomada de decisões, 
     na identificação de novos talentos e na construção de equipes competitivas. Inovações, como o modelo de avaliação de posicionamento 
-    em recuperação de bola proposto por >Ricardo Furbino, foram discutidas, além dos desafios inerentes ao manuseio de dados em <em>SportsTechs</em>.
+    em recuperação de bola proposto por Ricardo Furbino, foram discutidas, além dos desafios inerentes ao manuseio de dados em <em>SportsTechs</em>.
 </p>
