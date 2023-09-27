@@ -15,7 +15,7 @@ techniques can be applied to the world of football.
 <strong>DSAF was first offered in the first semester of 2023 for students majoring in Computer Science, Information Systems and Computational Mathematics</strong>. 
 However, there were students from Engineering majors that took the course as an elective. The course was structured by professors 
 <a href='https://dcc.ufmg.br/professor/wagner-meira-junior/'>Wagner Meira Jr.</a>, 
-<a href='https://dcc.ufmg.br/professor/adriano-cesar-machado-pereira/'>Adriano Pereira</a> and Master's student 
+<a href='https://dcc.ufmg.br/professor/adriano-cesar-machado-pereira/'>Adriano César Pereira</a> and Master's student 
 <a href='https://hugoriosneto.github.io/'>Hugo Rios-Neto</a>, who served as a teaching assistant. 
 The course <strong>syllabus</strong> is available, in Portuguese, 
 <a href='https://docs.google.com/document/d/181RvYa94wxLDB7S6A9AHajWYVwHF1C9wNIGuzfPPSO0/edit'>here</a>.

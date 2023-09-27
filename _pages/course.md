@@ -11,6 +11,8 @@ horizontal: false
 <!-- pages/course.md -->
 <hr>
 
+#### PAGE IN CONSTRUCTION, STILL INCOMPLETE!!!
+
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

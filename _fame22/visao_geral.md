@@ -8,20 +8,22 @@ category: work
 related_publications:
 ---
 <hr>
-Realizado em 21 de outubro de 2022, o "Football Analytics: Modeling and Experience (FAME)" marcou um momento significativo 
-para a análise de futebol no Brasil, sendo o primeiro evento de sports analytics no país. Com a presença de 175 participantes, 
-a iniciativa evidenciou o crescente interesse e a importância do campo no cenário esportivo brasileiro.
+<p>
+    Realizado em <strong>21 de outubro de 2022</strong>, o "<em>Football Analytics: Modeling and Experience (FAME)</em>" marcou um momento significativo 
+    para a <strong>ciência de dados aplicada ao futebol</strong> no Brasil, sendo o primeiro evento de <em>sports analytics</em> no país. Com a presença de <strong>175 participantes</strong>, 
+    a iniciativa evidenciou o crescente interesse e a importância do campo no cenário esportivo brasileiro.
+</p>
 
-Ao longo do evento, foram abordados temas diversificados, desde a criação e estruturação de um departamento de analytics, 
-passando pela implementação de um data lake em clube de futebol, até as variadas aplicações e limitações dos diferentes tipos de dados no esporte. 
-A interação e troca de conhecimento entre a academia, clubes e empresas proporcionaram insights valiosos e debates enriquecedores 
-acerca dos desafios e oportunidades presentes no emergente campo de soccer analytics e sports science.
+<p>
+    Ao longo do evento, foram abordados <strong>temas diversificados</strong>, desde a criação e estruturação de um departamento de <em>analytics</em>, 
+    passando pela implementação de um <em>data lake</em> em clube de futebol, até as variadas aplicações e limitações dos diferentes tipos de dados no esporte. 
+    A interação e troca de conhecimento entre a academia, clubes e empresas proporcionaram insights valiosos e debates enriquecedores 
+    acerca dos desafios e oportunidades presentes no emergente campo de <em>soccer analytics</em> e <em>sports science</em>.
+</p>
 
-A variedade de perspectivas e o diálogo aberto durante o FAME 2022 enfatizaram a importância vital da colaboração entre os 
-diversos setores da indústria do futebol. Ficou evidente o papel transformador da análise de dados na tomada de decisões, 
-na identificação de novos talentos e na construção de equipes competitivas. Inovações, como o modelo de avaliação de posicionamento 
-em recuperação de bola proposto por Ricardo Furbino, foram discutidas, evidenciando os desafios inerentes ao manuseio de dados em SportsTechs.
-
-Em resumo, o FAME 2022 não só se destacou como um marco inaugural no campo da análise de futebol no Brasil, mas também 
-fomentou intensivamente o diálogo e a cooperação, semeando expectativas e entusiasmo quanto às futuras possibilidades 
-e desenvolvimentos no setor.
+<p>
+    A variedade de perspectivas e o diálogo aberto durante o FAME 2022 enfatizaram a <strong>importância da colaboração entre os 
+    diversos setores da indústria do futebol</strong>. Ficou evidente o papel transformador da análise de dados na tomada de decisões, 
+    na identificação de novos talentos e na construção de equipes competitivas. Inovações, como o modelo de avaliação de posicionamento 
+    em recuperação de bola proposto por >Ricardo Furbino, foram discutidas, além dos desafios inerentes ao manuseio de dados em <em>SportsTechs</em>.
+</p>
