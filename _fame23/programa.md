@@ -7,8 +7,7 @@ importance: 2
 category: work
 ---
 <hr>
-A tabela a seguir apresenta um esboço da programação até agora, sem horários definidos. Em breve, iremos divulgar os 
-convidados externos, bem como os horários e outros detalhes. Aguarde!
+A programação parcial do evento está disponível abaixo e está sendo constantemente atualizada.
 <table>
     <tr>
         <th>Tipo de Apresentação</th>
