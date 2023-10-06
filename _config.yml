@@ -179,10 +179,16 @@ collections:
     permalink: /FAME22/:path/
   fame22org:
     output: true
-    permalink: /FAME22/:path/
+    permalink: /FAME22/organizacao/:path/
   fame23:
     output: true
     permalink: /FAME23/:path/
+  fame23org:
+    output: true
+    permalink: /FAME23/organizacao/:path/
+  fame23pal:
+    output: true
+    permalink: /FAME23/palestrantes/:path/
 
 announcements:
   enabled: true

@@ -83,7 +83,7 @@ category: work
     </tr>
     <tr>
         <td>12h20 - 12h40</td>
-        <td><a href="/assets/pdf/FAME/2022/7_Ricardo_Furbino.pptx">A Generalized Action-based Ball Recovery Model: Pesquisa Selecionada para a Conferência do StatsBomb 2022</a></td>
+        <td><a href="/assets/pdf/FAME/2022/7_Ricardo_Furbino.pptx">"A Generalized Action-based Ball Recovery Model": Pesquisa Selecionada para a Conferência do StatsBomb 2022</a></td>
         <td><a href='https://www.linkedin.com/in/ricardo-furbino'>Ricardo Furbino</a></td>
         <td>Graduando em Ciência da Computação na UFMG</td>
     </tr>
@@ -113,7 +113,7 @@ category: work
     </tr>
     <tr>
         <td>13h10 - 13h30</td>
-        <td>Bate bola academia</td>
+        <td>Bate Bola: Academia vs. Indústria em <em>Sports Analytics</em>: Semelhanças, Diferenças e Direções Futuras</td>
         <td>
             <table style="border: 0;" cellpadding="0" cellspacing="0">
                 <tr>
