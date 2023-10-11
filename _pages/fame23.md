@@ -22,8 +22,9 @@ horizontal: false
 - **Data:** 17/11/2023
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a> – Auditório B101/102, UFMG - Campus Pampulha
 - **Horário:** 9:00 às 17:00
-- **Ingressos:** link a ser disponibilizado em breve! O ingresso terá novamente o valor simbólico de R$5,00, de modo a evitarmos que pessoas 
-registrem no evento e não compareçam. Como no ano passado, todo o valor arrecadado será doado para uma instituição de caridade, ainda a ser definida.
+- **Ingressos:** <a href='https://www.sympla.com.br/fame-23-football-analytics-modelling-and-experience__2197311'>Link</a> pelo Sympla! O ingresso terá 
+novamente o valor simbólico de R$5,00, de modo a evitarmos que pessoas 
+registrem-se para o evento e não compareçam. Como no ano passado, todo o valor arrecadado será doado para a Casa de Amparo Amigos da Vida (CAMAV).
 <hr>
 
 O <b>Sports Analytics Lab (SALab)</b> do Departamento de Ciência da Computação da UFMG tem o prazer de apresentar a segunda edição do 

@@ -4,7 +4,7 @@ category:
 img: assets/img/team/Hugo-Rios-Neto.jpg
 first_name: Hugo
 last_name: Rios Neto
-short_name: Hugo Rios-Neto
+short_name: 
 email: hugoriosneto@dcc.ufmg.br
 importance: 2
 role: Engenheiro de Inteligência da Gemini Sports Analytics e aluno de mestrado de Ciência da Computação da UFMG
