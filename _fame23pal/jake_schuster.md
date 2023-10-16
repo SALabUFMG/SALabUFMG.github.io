@@ -7,7 +7,7 @@ last_name: Schuster
 short_name: Jake Schuster
 email: jake@geminisports.ai
 importance: 1
-role: Fundador e CEO da Gemini Sports Analytics
+role: Fundador e CEO da <a href='https://geminisports.co/'>Gemini Sports Analytics</a>
 one_liner: 
 personal_page: https://geminisports.co/
 scholar_userid: 

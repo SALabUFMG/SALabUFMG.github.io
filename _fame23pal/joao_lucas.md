@@ -6,7 +6,7 @@ first_name: João Lucas
 last_name: Lage Gonçalves
 short_name: João Lucas
 email: joao.lucas@dcc.ufmg.br
-importance: 2
+importance: 4
 role: Aluno de graduação de Sistemas de Informação da UFMG
 one_liner: 
 personal_page: 
