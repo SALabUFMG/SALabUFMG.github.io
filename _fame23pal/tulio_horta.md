@@ -5,7 +5,7 @@ img: assets/img/FAME/2023/tulio-horta.jpeg
 first_name: Túlio
 last_name: Horta
 short_name: 
-email: mailto:thorta@voltsportscience.com
+email: thorta@voltsportscience.com
 importance: 2
 role: COO da <a href='http://www.voltsportscience.com/'>Volt Sports Science</a> e Gestor de Saúde e Performance
 one_liner: 
