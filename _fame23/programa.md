@@ -18,7 +18,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <tr>
         <td>Patrocinador</td>
-        <td>A definir</td>
+        <td>A Plataforma de IA para Esportes: Construa um Departamento de Analytics com a Gemini</td>
         <td>
             <table style="border: 0;" cellpadding="0" cellspacing="0">
                 <tr>
@@ -39,7 +39,8 @@ A programação parcial do evento está disponível abaixo e está sendo constan
                 </tr>
             </table>
         </td>
-        <td>A definir.</td>
+        <td>Nessa apresentação, Jake e Hugo mostrarão como a plataforma da Gemini oferece software para todas etapas necessárias para 
+        um construir e potencializar um departamento de analytics em um clube de futebol.</td>
     </tr>
     <tr>
         <td>Painel</td>
