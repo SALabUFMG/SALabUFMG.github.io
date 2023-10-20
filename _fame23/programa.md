@@ -5,6 +5,7 @@ description:
 img: assets/img/FAME/2022/schedule-icon.jpeg
 importance: 2
 category: work
+social: true  # includes social icons at the bottom of the page
 ---
 <hr>
 A programação parcial do evento está disponível abaixo e está sendo constantemente atualizada.

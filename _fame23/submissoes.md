@@ -6,6 +6,7 @@ img: assets/img/FAME/2022/submission-icon.jpg
 importance: 1
 category: work
 related_publications:
+social: true  # includes social icons at the bottom of the page
 ---
 <hr>
 
