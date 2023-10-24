@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/23/pedro_monteiro.jpg
+img: assets/img/FAME/2023/pedro_monteiro.jpg
 first_name: Pedro
 last_name: Monteiro
 short_name: 
