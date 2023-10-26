@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/fernando-ziskind.jpeg
+img: assets/img/FAME/2023/fernando-ziskind.png
 first_name: Fernando
 last_name: Ziskind
 short_name: 
