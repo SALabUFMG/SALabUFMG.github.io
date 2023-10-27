@@ -6,7 +6,7 @@ first_name: Felipe
 last_name: Tricate
 short_name: 
 email: 
-importance: 2
+importance: 1
 role: Scout do Houston Dynamo e Professor do <a href='https://sportsdatacampus.com/'>Sports Data Campus</a>
 one_liner: 
 personal_page: 
