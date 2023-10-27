@@ -6,7 +6,7 @@ first_name: Fernando
 last_name: Ziskind
 short_name: 
 email: 
-importance: 2
+importance: 1
 role: Analista de Mercado do Atlético Mineiro
 one_liner: 
 personal_page: 

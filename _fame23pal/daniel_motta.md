@@ -6,7 +6,7 @@ first_name: Daniel
 last_name: Motta
 short_name: 
 email: 
-importance: 2
+importance: 1
 role: Analista de Dados do Flamengo
 one_liner: 
 personal_page: 

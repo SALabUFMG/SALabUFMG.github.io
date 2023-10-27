@@ -6,7 +6,7 @@ first_name: Ana Beatriz
 last_name: Macedo
 short_name: 
 email: anabeatrizmacedo241@gmail.com
-importance: 2
+importance: 1
 role: Cientista de dados e estagiária no Orlando City SC e aluna de graduação de Ciência de Dados da PUC-SP.
 one_liner: 
 personal_page: https://portfolio-anabeatrizmacedo.streamlit.app/

@@ -6,7 +6,7 @@ first_name: Rodrigo
 last_name: Picchioni
 short_name: Rodrigo Picchioni
 email: 
-importance: 2
+importance: 1
 role: Co-chefe de Analytics do Atlético Mineiro
 one_liner: 
 personal_page: 

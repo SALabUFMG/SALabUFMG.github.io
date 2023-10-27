@@ -6,7 +6,7 @@ first_name: Wagner
 last_name: Meira Jr.
 short_name: Wagner Meira
 email: meira@dcc.ufmg.br
-importance: 3
+importance: 1
 role: Professor do Departamento de Ciência da Computação da UFMG
 one_liner: 
 personal_page: https://dcc.ufmg.br/professor/wagner-meira-junior/
