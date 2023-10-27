@@ -35,6 +35,6 @@ A versão final do trabalho e respectivo pôster devem ser enviados através des
 Por fim, a versão final dos resumos e pôsteres serão disponibilizados neste site até 03/11/23, às 23h59.
 
 ### Datas Importantes
-- **Submissão:** até ~~27/10/23~~ 29/10 às 23h59
+- **Submissão:** até ~~27/10/23~~  29/10/23 às 23h59
 - **Aceite:** até 03/11/23 às 23h59
 - **Versão final e pôster:** até 10/11/23 às 23h59
