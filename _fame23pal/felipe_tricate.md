@@ -7,7 +7,7 @@ last_name: Tricate
 short_name: 
 email: 
 importance: 1
-role: Scout do Houston Dynamo e Professor do <a href='https://sportsdatacampus.com/'>Sports Data Campus</a>
+role: Scout do Houston Dynamo e Professor do Insper
 one_liner: 
 personal_page: 
 scholar_userid: 
