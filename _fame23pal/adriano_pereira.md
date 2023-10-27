@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/team/Adriano-Cesar.jpg
+img: assets/img/team/Adriano-Cesar.jpeg
 first_name: Adriano
 last_name: C.M Pereira
 short_name: 
