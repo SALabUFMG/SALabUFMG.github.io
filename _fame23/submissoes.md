@@ -26,7 +26,7 @@ As submissões podem abranger, mas não se limitam a:
 ### Submissão
 A submissão consiste no envio de um <strong>resumo, no formato PDF, de até 1000 palavras</strong>, descrevendo o 
 problema e o objetivo geral, a metodologia, os resultados e as conclusões 
-do trabalho. Enviar submissões através deste <a href='https://forms.gle/U973UcNNQHceSt8SA'>formulário</a> até 27/10/23, às 23h59.
+do trabalho. Enviar submissões através deste <a href='https://forms.gle/U973UcNNQHceSt8SA'>formulário</a> até 29/10/23, às 23h59.
 
 ### Aceitação e publicação
 Os trabalhos aceitos receberão uma confirmação por email. Para fins de publicação, os autores devem preparar um pôster, 
@@ -35,6 +35,6 @@ A versão final do trabalho e respectivo pôster devem ser enviados através des
 Por fim, a versão final dos resumos e pôsteres serão disponibilizados neste site até 03/11/23, às 23h59.
 
 ### Datas Importantes
-- **Submissão:** até 27/10/23 às 23h59
+- **Submissão:** até ~~27/10/23~~ 29/10 às 23h59
 - **Aceite:** até 03/11/23 às 23h59
 - **Versão final e pôster:** até 10/11/23 às 23h59
