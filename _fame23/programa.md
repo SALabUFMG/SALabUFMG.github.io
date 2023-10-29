@@ -62,7 +62,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 10h45-11h15 -->
     <tr>
-    <td rowspan="1">10h15-10h30</td>
+    <td rowspan="1">10h45-11h15</td>
     <td rowspan="1">A Confirmar</td>
     <td>A Confirmar</td>
     <td></td>
