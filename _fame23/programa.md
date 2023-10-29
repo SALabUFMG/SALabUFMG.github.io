@@ -120,7 +120,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
         <td rowspan="4">14h30-15h15</td>
         <td rowspan="4">Painel: Análise de Desempenho e Mercado</td>
         <td>Daniel Motta</td>
-        <td>Analista de Dados do Flamngo</td>
+        <td>Analista de Dados do Flamengo</td>
         <td rowspan="4"></td>
     </tr>
     <tr>
