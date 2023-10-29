@@ -17,6 +17,20 @@ A programação parcial do evento está disponível abaixo e está sendo constan
         <th>Cargo(s)</th>
         <th>Descrição</th>
     </tr>
+    <tr>
+        <td rowspan="1">8h-9h</td>
+        <td rowspan="1">Credenciamento</td>
+        <td></td>
+        <td></td>
+        <td rowspan="1"></td>
+    </tr>
+    <tr>
+        <td rowspan="1">9h-9h15</td>
+        <td rowspan="1">Abertura</td>
+        <td></td>
+        <td></td>
+        <td rowspan="1"></td>
+    </tr>
     <!-- 9h15-9h45 -->
     <tr>
         <td rowspan="1">9h15-9h45</td>
