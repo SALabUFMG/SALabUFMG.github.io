@@ -20,7 +20,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <!-- 9h15-9h45 -->
     <tr>
         <td rowspan="1">9h15-9h45</td>
-        <td rowspan="1">Potencialização das operações de futebol através de práticas baseadas em evidências</td>
+        <td rowspan="1">Potencialização das Operações de Futebol Através de Práticas Baseadas em Evidências</td>
         <td>Rodrigo Picchioni</td>
         <td>Co-chefe de Analytics do Atlético Mineiro</td>
         <td rowspan="1"></td>
@@ -49,7 +49,6 @@ A programação parcial do evento está disponível abaixo e está sendo constan
         <td>Cientista de Dados do Atlético Mineiro e aluno de Mestrado em Ciência da Computação da UFMG</td>
         <td rowspan="1">Artigo aceito e apresentado no Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA) 2023.</td>
     </tr>
-    <!-- 10h30-10h45 -->
     <tr>
         <td rowspan="2">10h30-10h45</td>
         <td rowspan="2">Caracterização de Estratégias de Futebol com Base na Frequência, Importância e Efetividade de Jogadas</td>
@@ -63,8 +62,15 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 10h45-11h15 -->
     <tr>
-        <td rowspan="2">10h45-11h15</td>
-        <td rowspan="2">A Confirmar</td>
+    <td rowspan="1">10h15-10h30</td>
+    <td rowspan="1">A Confirmar</td>
+    <td>A Confirmar</td>
+    <td></td>
+    <td> </td>
+    </tr>
+    <tr>
+        <td rowspan="2">11h15-11h45</td>
+        <td rowspan="2">A Plataforma de IA para Esportes: Construa um Departamento de Analytics com a Gemini</td>
         <td>Jake Schuster</td>
         <td>Fundador e CEO da Gemini Sports Analytics</td>
         <td rowspan="2">Nessa apresentação, Jake e Hugo mostrarão como a plataforma da Gemini oferece software para todas etapas necessárias para um construir e potencializar um departamento de analytics em um clube de futebol.</td>
