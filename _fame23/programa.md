@@ -195,5 +195,12 @@ A programação parcial do evento está disponível abaixo e está sendo constan
         <td>Wagner Meira Jr. (Moderador)</td>
         <td>Professor do Departamento de Ciência da Computação da UFMG</td>
     </tr>
+    <tr>
+        <td rowspan="1">18h-18h30</td>
+            <td rowspan="1">A definir</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
