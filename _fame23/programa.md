@@ -103,7 +103,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <tr>
         <td>Pedro Pereira</td>
-        <td>Cientista de dados do Fluminense FC e doutor em fisiologia pelo Instituto de Biofísica da UFRJ</td>
+        <td>Cientista de dados do Fluminense FC</td>
     </tr>
     <tr>
         <td>Rodrigo Salvador</td>
