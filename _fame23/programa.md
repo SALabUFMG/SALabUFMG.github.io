@@ -42,7 +42,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <!-- 9h45-10h15 -->
     <tr>
         <td rowspan="3">9h45-10h15</td>
-        <td rowspan="3">Painel: Ciência do Esporte</td>
+        <td rowspan="3">Painel: Abordagens Quantitativas na Ciência do Esporte</td>
         <td>Túlio Horta</td>
         <td>COO da Volt Sports Science e Gestor de Saúde e Performance</td>
         <td rowspan="3"></td>
@@ -95,15 +95,19 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 11h45-12h30 -->
     <tr>
-        <td rowspan="3">11h45-12h30</td>
-        <td rowspan="3">Painel: Cientistas de Dados no Futebol</td>
+        <td rowspan="4">11h45-12h30</td>
+        <td rowspan="4">Painel: A Atuação do Cientista de Dados no Futebol</td>
         <td>Ana Beatriz Macedo</td>
         <td>Cientista de dados e estagiária no Orlando City SC e aluna de graduação de Ciência de Dados da PUC-SP</td>
-        <td rowspan="3"></td>
+        <td rowspan="4"></td>
     </tr>
     <tr>
         <td>Pedro Pereira</td>
         <td>Cientista de dados do Fluminense FC e doutor em fisiologia pelo Instituto de Biofísica da UFRJ</td>
+    </tr>
+    <tr>
+        <td>Rodrigo Salvador</td>
+        <td>Cientista de dados do Red Bull Bragantino</td>
     </tr>
     <tr>
         <td>Hugo Rios-Neto (Moderador)</td>
@@ -132,7 +136,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <!-- 14h30-15h15 -->
     <tr>
         <td rowspan="4">14h30-15h15</td>
-        <td rowspan="4">Painel: Análise de Desempenho e Mercado</td>
+        <td rowspan="4">Painel: Ciência de Dados como Suporte à Análise de Desempenho e de Mercado</td>
         <td>Daniel Motta</td>
         <td>Analista de Dados do Flamengo</td>
         <td rowspan="4"></td>
@@ -144,6 +148,10 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <tr>
         <td>Fernando Ziskind</td>
         <td>Analista de Mercado do Atlético Mineiro</td>
+    </tr>
+    <tr>
+        <td>Teo Benjamin</td>
+        <td>Analista de Dados do Red Bull Bragantino</td>
     </tr>
     <tr>
         <td>Diego Vieira (Moderador)</td>
@@ -166,9 +174,9 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <!-- 16h30-17h -->
     <tr>
         <td rowspan="1">16h30-17h</td>
-        <td rowspan="1">A Definir</td>
-        <td>A Definir</td>
-        <td></td>
+        <td rowspan="1">Complexidade e Lesões no Esporte: Uma estratégia para identificação precoce do risco de lesão</td>
+        <td>Sérgio Fonseca</td>
+        <td>Professor do Departamento de Fisioterapia e Diretor do Centro de Treinamento Esportivo da UFMG</td>
         <td></td>
     </tr>
     <!-- 17h-17h30 -->
