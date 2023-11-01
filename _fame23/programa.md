@@ -135,11 +135,11 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 14h30-15h15 -->
     <tr>
-        <td rowspan="4">14h30-15h15</td>
-        <td rowspan="4">Painel: Ciência de Dados como Suporte à Análise de Desempenho e de Mercado</td>
+        <td rowspan="5">14h30-15h15</td>
+        <td rowspan="5">Painel: Ciência de Dados como Suporte à Análise de Desempenho e de Mercado</td>
         <td>Daniel Motta</td>
         <td>Analista de Dados do Flamengo</td>
-        <td rowspan="4"></td>
+        <td rowspan="5"></td>
     </tr>
     <tr>
         <td>Felipe Tricate</td>
