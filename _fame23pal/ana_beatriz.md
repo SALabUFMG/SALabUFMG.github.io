@@ -5,7 +5,7 @@ img: assets/img/FAME/2023/ana-beatriz.jpeg
 first_name: Ana Beatriz
 last_name: Macedo
 short_name: 
-email:anabeatrizmacedo241@gmail.com
+email: anabeatrizmacedo241@gmail.com
 importance: 1
 role: Cientista de dados e estagiária no Orlando City SC e aluna de graduação de Ciência de Dados da PUC-SP.
 one_liner: 
