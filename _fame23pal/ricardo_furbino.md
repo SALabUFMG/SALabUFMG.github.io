@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/team/Ricardo-Furbino.jpeg
+img: assets/img/team/Ricardo-Furbino.jpg
 first_name: Ricardo 
 last_name: Furbino
 short_name: 
