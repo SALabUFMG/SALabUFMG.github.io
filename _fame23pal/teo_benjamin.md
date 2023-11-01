@@ -13,4 +13,5 @@ personal_page:
 scholar_userid: 
 github_username: 
 twitter_username: 
-linkedin_username:
+linkedin_username: téo-ferraz-benjamin-a2245953
+---
