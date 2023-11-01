@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/teo_benjamin.jpeg
+img: assets/img/FAME/2023/teo_benjamin.jpg
 first_name: Téo
 last_name: Benjamin
 short_name: 

@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/caio_brighenti.jpeg
+img: assets/img/FAME/2023/caio_brighenti.jpg
 first_name: Caio
 last_name: Brighenti
 short_name: 
