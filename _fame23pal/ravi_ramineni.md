@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/ravi_ramineni.jpeg
+img: assets/img/FAME/2023/ravi_ramineni.jpg
 first_name: Ravi
 last_name: Ramineni
 short_name: 
