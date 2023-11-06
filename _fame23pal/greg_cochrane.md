@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/greg_cochrane.jpeg
+img: assets/img/FAME/2023/greg_cochrane.jpg
 first_name: Greg
 last_name: Cochrane
 short_name: 

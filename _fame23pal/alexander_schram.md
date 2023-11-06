@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/alexander_schram.jpeg
+img: assets/img/FAME/2023/alexander_schram.jpg
 first_name: Alexander
 last_name: Schram
 short_name: 
