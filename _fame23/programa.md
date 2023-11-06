@@ -76,11 +76,15 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 10h45-11h15 -->
     <tr>
-    <td rowspan="1">10h45-11h15</td>
-    <td rowspan="1">A Confirmar</td>
-    <td>A Confirmar</td>
-    <td></td>
-    <td> </td>
+        <td rowspan="2">10h45-11h15</td>
+        <td rowspan="2">Keynote: PFF</td>
+        <td>Alexander Schram</td>
+        <td>Sr. Manager, Team Services & Analytics da PFF FC</td>
+        <td rowspan="2"> </td>
+    </tr>
+        <tr>
+        <td>Greg Cochrane</td>
+        <td>Business Development Manager da PFF FC</td>
     </tr>
     <tr>
         <td rowspan="2">11h15-11h45</td>
