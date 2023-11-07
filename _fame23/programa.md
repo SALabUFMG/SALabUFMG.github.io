@@ -77,7 +77,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <!-- 10h45-11h15 -->
     <tr>
         <td rowspan="2">10h45-11h15</td>
-        <td rowspan="2">Keynote: PFF</td>
+        <td rowspan="2">Keynote: New Ways to Explore the Game Using PFF Tracking Data</td>
         <td>Alexander Schram</td>
         <td>Sr. Manager, Team Services & Analytics da PFF FC</td>
         <td rowspan="2"> </td>
