@@ -27,7 +27,7 @@ Como no ano passado, todo o valor arrecadado será doado para a Casa de Amparo A
 ### Sobre o evento
 - **Data:** 17/11/2023
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a> – Auditório B101/102, UFMG - Campus Pampulha
-- **Horário:** 9:00 às 18:00
+- **Horário:** 9:00 às 18:30
 <hr>
 
 O <b>Sports Analytics Lab (SALab)</b> do Departamento de Ciência da Computação da UFMG tem o prazer de apresentar a segunda edição do 
