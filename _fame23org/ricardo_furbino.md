@@ -6,7 +6,7 @@ first_name: Ricardo
 last_name: Furbino
 short_name: Ricardo Furbino
 email: ricardofurbino@gmail.com
-importance: 10
+importance: 1
 role: Cientista de dados estagiário e aluno de graduação de Ciência da Computação da UFMG
 one_liner: 
 personal_page:

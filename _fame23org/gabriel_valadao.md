@@ -6,7 +6,7 @@ first_name: Gabriel
 last_name: Valadão
 short_name: Gabriel Meira
 email: gabriel.valadao@dcc.ufmg.br
-importance: 7
+importance: 1
 role: Cientista de dados estagiário do Atlético Mineiro e aluno de graduação de Sistemas de Informação da UFMG
 one_liner: 
 personal_page: 
