@@ -113,7 +113,7 @@ social: true  # includes social icons at the bottom of the page
         <td>Cientista de dados do Red Bull Bragantino</td>
     </tr>
     <tr>
-        <td>Henrique Simoes</td>
+        <td>Henrique Simões</td>
         <td>Coordenador de Analytics do Botafogo</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ social: true  # includes social icons at the bottom of the page
     <!-- 14h-14h30 -->
     <tr>
         <td rowspan="2">14h-14h30</td>
-        <td rowspan="2">Keynote: SRC</td>
+        <td rowspan="2">Keynote: Q&A src | ftbl</td>
         <td>Ravi Ramineni</td>
         <td>Co-fundador e CEO da src | ftbl</td>
         <td rowspan="2"></td>
