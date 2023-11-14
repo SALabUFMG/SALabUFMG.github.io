@@ -137,9 +137,9 @@ A programação parcial do evento está disponível abaixo e está sendo constan
         <td>Ricardo Furbino</td>
         <td>Estagiário da src | ftbl e aluno de graduação em Ciência da Computação da UFMG</td>
     </tr>
-    <!-- 14h30-15h15 -->
+    <!-- 14h30-15h30 -->
     <tr>
-        <td rowspan="5">14h30-15h15</td>
+        <td rowspan="5">14h30-15h30</td>
         <td rowspan="5">Painel: Ciência de Dados como Suporte à Análise de Desempenho e de Mercado</td>
         <td>Daniel Motta</td>
         <td>Analista de Dados do Flamengo</td>
@@ -160,13 +160,6 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <tr>
         <td>Diego Vieira (Moderador)</td>
         <td>Fundador e CEO da OUTLIER FC</td>
-    <tr>
-    <td rowspan="1">15h15-15h30</td>
-    <td rowspan="1">Melhor Trabalho Submetido</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr>
  <!-- 15h30-16h30 -->
     <tr>
         <td rowspan="1">15h30-16h30</td>
@@ -175,9 +168,22 @@ A programação parcial do evento está disponível abaixo e está sendo constan
         <td></td>
         <td></td>
     </tr>
+    <tr>
+    <td rowspan="1">16h30-16h45</td>
+    <td rowspan="1">Melhor Trabalho Submetido: Analisando Robustez da Rede de Passes através da Dispersão de Hub e Authority</td>
+    <td>Balthazar Paixão/td>
+    <td>Aluno de Graduação em Ciência da Computação do CEFET-RJ</td>
+    <td></td>
+    </tr>
+    <td rowspan="1">16h45-17h</td>
+    <td rowspan="1">Melhor Trabalho Submetido: Explainable xP: Solucionando Enviesamento de Modelos de Expected Pass com Tracking</td>
+    <td>Gabriel Reis Gama/td>
+    <td>Aluno de Graduação em Engenharia Elétrica da UFMG</td>
+    <td></td>
+    </tr>
     <!-- 16h30-17h -->
     <tr>
-        <td rowspan="1">16h30-17h</td>
+        <td rowspan="1">17h-17h30</td>
         <td rowspan="1">Complexidade e Lesões no Esporte: Uma estratégia para identificação precoce do risco de lesão</td>
         <td>Sérgio Fonseca</td>
         <td>Professor do Departamento de Fisioterapia e Diretor do Centro de Treinamento Esportivo da UFMG</td>
@@ -185,7 +191,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 17h-17h30 -->
     <tr>
-        <td rowspan="1">17h-17h30</td>
+        <td rowspan="1">17h30-18</td>
         <td rowspan="1">Keynote: Ciência de Dados na NFL</td>
         <td>Caio Brighenti</td>
         <td>Manager of Football Information no Detroit Lions</td>
@@ -193,7 +199,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 17h30-18h -->
     <tr>
-        <td rowspan="3">17h30-18h</td>
+        <td rowspan="3">18-18h30</td>
         <td rowspan="3">Painel: Academia e Indústria em Sports Analytics - Semelhanças, Diferenças e Direções Futuras</td>
         <td>Pedro Henrique González</td>
         <td>Professor da UFRJ</td>
