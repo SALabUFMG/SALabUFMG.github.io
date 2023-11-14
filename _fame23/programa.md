@@ -175,7 +175,7 @@ social: true  # includes social icons at the bottom of the page
     <td rowspan="1">16h30-16h45</td>
     <td rowspan="1">Melhor Trabalho Submetido: Analisando Robustez da Rede de Passes através da Dispersão de Hub e Authority</td>
     <td>Balthazar Paixão</td>
-    <td>Aluno de Graduação em Ciência da Computação do CEFET-RJ</td>
+    <td>Aluno de Mestrado em Ciência da Computação do CEFET-RJ</td>
     <td></td>
     </tr>
     <tr>
