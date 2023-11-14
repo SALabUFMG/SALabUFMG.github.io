@@ -174,14 +174,14 @@ social: true  # includes social icons at the bottom of the page
     <tr>
     <td rowspan="1">16h30-16h45</td>
     <td rowspan="1">Melhor Trabalho Submetido: Analisando Robustez da Rede de Passes através da Dispersão de Hub e Authority</td>
-    <td>Balthazar Paixão/td>
+    <td>Balthazar Paixão</td>
     <td>Aluno de Graduação em Ciência da Computação do CEFET-RJ</td>
     <td></td>
     </tr>
     <tr>
     <td rowspan="1">16h45-17h</td>
     <td rowspan="1">Melhor Trabalho Submetido: Explainable xP: Solucionando Enviesamento de Modelos de Expected Pass com Tracking</td>
-    <td>Gabriel Reis Gama/td>
+    <td>Gabriel Reis Gama</td>
     <td>Aluno de Graduação em Engenharia Elétrica da UFMG</td>
     <td></td>
     </tr>
@@ -195,7 +195,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 17h-17h30 -->
     <tr>
-        <td rowspan="1">17h30-18</td>
+        <td rowspan="1">17h30-18h</td>
         <td rowspan="1">Keynote: Ciência de Dados na NFL</td>
         <td>Caio Brighenti</td>
         <td>Manager of Football Information no Detroit Lions</td>
@@ -203,7 +203,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 17h30-18h -->
     <tr>
-        <td rowspan="3">18-18h30</td>
+        <td rowspan="3">18h-18h30</td>
         <td rowspan="3">Painel: Academia e Indústria em Sports Analytics - Semelhanças, Diferenças e Direções Futuras</td>
         <td>Pedro Henrique González</td>
         <td>Professor da UFRJ</td>
@@ -216,13 +216,6 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td>Wagner Meira Jr. (Moderador)</td>
         <td>Professor do Departamento de Ciência da Computação da UFMG</td>
-    </tr>
-    <tr>
-        <td rowspan="1">18h-18h30</td>
-            <td rowspan="1">A definir</td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
 
 
