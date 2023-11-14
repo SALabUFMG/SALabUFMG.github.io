@@ -8,7 +8,6 @@ category: work
 social: true  # includes social icons at the bottom of the page
 ---
 <hr>
-A programação parcial do evento está disponível abaixo e está sendo constantemente atualizada.
 <table>
     <tr>
         <th>Horário</th>
@@ -99,11 +98,11 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     </tr>
     <!-- 11h45-12h30 -->
     <tr>
-        <td rowspan="4">11h45-12h30</td>
-        <td rowspan="4">Painel: A Atuação do Cientista de Dados no Futebol</td>
+        <td rowspan="5">11h45-12h30</td>
+        <td rowspan="5">Painel: A Atuação do Cientista de Dados no Futebol</td>
         <td>Ana Beatriz Macedo</td>
         <td>Cientista de dados e estagiária no Orlando City SC e aluna de graduação de Ciência de Dados da PUC-SP</td>
-        <td rowspan="4"></td>
+        <td rowspan="5"></td>
     </tr>
     <tr>
         <td>Pedro Pereira</td>
@@ -112,6 +111,10 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <tr>
         <td>Rodrigo Salvador</td>
         <td>Cientista de dados do Red Bull Bragantino</td>
+    </tr>
+    <tr>
+        <td>Henrique Simoes</td>
+        <td>Coordenador de Analytics do Botafogo</td>
     </tr>
     <tr>
         <td>Hugo Rios-Neto (Moderador)</td>
@@ -175,6 +178,7 @@ A programação parcial do evento está disponível abaixo e está sendo constan
     <td>Aluno de Graduação em Ciência da Computação do CEFET-RJ</td>
     <td></td>
     </tr>
+    <tr>
     <td rowspan="1">16h45-17h</td>
     <td rowspan="1">Melhor Trabalho Submetido: Explainable xP: Solucionando Enviesamento de Modelos de Expected Pass com Tracking</td>
     <td>Gabriel Reis Gama/td>
