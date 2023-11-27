@@ -1,8 +1,8 @@
 ---
 layout: distill
-title:  FAME '23 Recap
+title:  FAME '23 Recap, by Hugo
 date:   2023-11-27
-description: My personal recap on FAME '23.
+description: Hugo Rios-Neto's recap on FAME '23.
 tags: soccer implementation
 categories: scientific-divulgation
 featured: true
