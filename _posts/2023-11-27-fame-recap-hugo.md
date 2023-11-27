@@ -3,9 +3,9 @@ layout: distill
 title:  FAME '23 Recap, by Hugo
 date:   2023-11-27
 description: Hugo Rios-Neto's recap on FAME '23.
-tags: soccer implementation
-categories: scientific-divulgation
-featured: true
+tags: 
+categories: 
+featured: false
 
 authors:
   - name: Hugo Rios-Neto
