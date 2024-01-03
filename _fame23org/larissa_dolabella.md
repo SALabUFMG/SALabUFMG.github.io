@@ -6,7 +6,7 @@ first_name: Larissa
 last_name: Dolabella
 short_name: 
 email: 
-importance: 8
+importance: 1
 role: Aluna de mestrado de Ciência da Computação da UFMG
 one_liner: 
 personal_page: 

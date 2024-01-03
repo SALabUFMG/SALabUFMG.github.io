@@ -3,8 +3,8 @@ layout: distill
 title:  The Tactical Influence of Analytics in Soccer
 date:   2020-05-23
 description: Hugo Rios-Neto's first blog post at Footure, providing a brief overview of the current landscape in Soccer Analytics (this was completely new in Brazil at the time) & presenting a use case of the Pitch Control metric in evaluating decision-making.
-tags: soccer implementation
-categories: scientific-divulgation
+tags: 
+categories: 
 featured: false
 
 authors:

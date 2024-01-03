@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2023/pedro_pereira.jpeg
+img: assets/img/FAME/2023/pedro_pereira.png
 first_name: Pedro 
 last_name: Pereira
 short_name: 
