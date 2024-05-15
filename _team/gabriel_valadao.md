@@ -12,6 +12,6 @@ one_liner: Data Science, Machine Learning, Sports Analytics.
 personal_page: 
 scholar_userid: 
 github_username: gabrielvaladao13
-twitter_username: g_vmeira
+twitter_username: Gvaladao_meira
 linkedin_username: gabriel-valadao-22a250150
 ---
