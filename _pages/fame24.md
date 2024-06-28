@@ -19,7 +19,7 @@ A ser anunciado.
 ### Sobre o evento
 - **Data:** 05/09/2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a>, UFMG - Campus Pampulha
-- **Horário:** 8:30às 18:30
+- **Horário:** 8:30 às 18:30
 
 <hr>
 
@@ -28,5 +28,3 @@ O <b>Sports Analytics Lab (SALab)</b> do Departamento de Ciência da Computaçã
 O objetivo principal deste evento é criar um ambiente enriquecedor onde alunos, professores e profissionais da indústria do futebol 
 possam se conectar, trocar experiências, construir conhecimento e se informar sobre a realidade atual da área de Football Analytics. 
 A programação completa do FAME contará com <b>palestras, painéis e apresentação de trabalhos submetidos</b>. A programação do evento ainda será anunciada!
-<
-hr>
