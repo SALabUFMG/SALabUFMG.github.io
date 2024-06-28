@@ -10,8 +10,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- pages/fof24.md -->
-Do you want to be a sponsor of this event? <a href='../sponsorship/'>Click here</a> and know more about our sponsorships options
-
+Be a part of our extraordinary event and showcase your brand's commitment to excellence.
+<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
 <hr>
 
 ### Tickets
