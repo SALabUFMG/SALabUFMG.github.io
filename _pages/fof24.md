@@ -50,7 +50,7 @@ Held on the campus of UFMG, is designed to expand the conference in two ways:
 <hr>
 
 ### The Program—The Future of Football
-- **September 4, 2024—The Business of Global Football**
+- **September 4, 2024**—<a href='https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/preston-robert-tisch-institute-for-global-sport.html'>The Business of Global Football</a>
     - Panels and Speakers Topics, with a focus on revenue generation and building brand loyalty:
         - Fan Engagement—deepening clubs’ relationships with fans and ways to monetize the engagement
         - The Media Landscape—in the wake of Brazil’s recent first division media rights deal, exploring the future of media
