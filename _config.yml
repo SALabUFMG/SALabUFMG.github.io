@@ -189,6 +189,15 @@ collections:
   fame23pal:
     output: true
     permalink: /FAME23/palestrantes/:path/
+  fame24:
+    output: true
+    permalink: /FAME24/:path/
+  fame24org:
+    output: true
+    permalink: /FAME24/organizacao/:path/
+  fame24pal:
+    output: true
+    permalink: /FAME24/palestrantes/:path/
 
 announcements:
   enabled: true
