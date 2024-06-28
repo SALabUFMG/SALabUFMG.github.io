@@ -21,7 +21,7 @@ To be announced
 
 ### About the event
 - **Date:** September 4 and 5, 2024
-- **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>CAD 3, Campus Pampulha UFMG</a> - Belo Horizonte, Minas Gerais - Brazil
+- **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Center for Didactic Activities 3</a>, Campus Pampulha UFMG - Belo Horizonte, Minas Gerais - Brazil
 
 <hr>
 
