@@ -60,7 +60,7 @@ Held on the campus of UFMG, is designed to expand the conference in two ways:
         - Leadership and Innovation in Football—best practices regarding ways to create value for all stakeholders
     - Clubs and Brands who have confirmed interest to participate—FC Bayern, Atlético Mineiro, Liverpool FC, Alibaba, Codajas Sports Capital, Montevideo City Torque, and AlphaPlay AI. Members of other organizations have expressed interest, including Club Tigres, Blue United, World Cup 2026, and others.
     - Evening networking reception and dinner for speakers, faculty, and special guests, which will provide an opportunity to expand everyone’s global network
-- **September 5, 2024—Football Analytics: Modeling and Experience (FAME)**
+- **September 5, 2024**—<a href='../FAME24/'>Football Analytics: Modeling and Experience (FAME)</a>
     - A full day of discussions on how data can enhance various aspects of decision-making in football, ranging from squad-building and player evaluation, to in-match strategies. This will include innovative applications of generative AI to aid clubs in being more efficient. The topics include:
         - Executives—bridging the gap between executive decision making and quantitative insights
         - Scouting—how data can support not only the evaluation of players but automate and enhance the talent identification process in a club?
