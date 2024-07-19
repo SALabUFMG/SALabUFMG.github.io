@@ -11,7 +11,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### Options
 
-Gold - Support **Business of Global Sports**
+Gold - Support **Business of Global Football**
  - Media mention 
  - Banner/Flyer
  - Conference marketing table
