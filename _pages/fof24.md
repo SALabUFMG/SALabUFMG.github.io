@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Future of Football 2024 (1<sup>st</sup> Edition)
+title: The Future of Football '24 (1<sup>st</sup> Edition)
 permalink: /FOF24/
 description:
 nav: false
@@ -10,12 +10,19 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- pages/fof24.md -->
-Be a part of our extraordinary event and showcase your brand's commitment to excellence.
-<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
-<hr>
 
-### Tickets
-To be announced
+<div class="container">
+    <div class="row align-items-center">
+        <div class="col-6">
+            <img height="100" src="../assets/img/nyu-logo.png" alt="NYU Tisch Institute for Global Sport logo">
+        </div>
+        <div class="col-6">
+            <img height="100" src="../assets/img/ufmg-logo.png" alt="Federal Univrsity of Minas Gerais logo">
+        </div>
+    </div>
+</div>
+<br><br><br>
+Join us for an exciting event brought to you by a collaboration between two leading universities. This unique partnership brings together the best of academic minds and innovative ideas, promising a stimulating and enriching experience for all attendees. 
 
 <hr>
 
@@ -25,8 +32,18 @@ To be announced
 
 <hr>
 
+### Sponsorship
+Be a part of our extraordinary event and showcase your brand's commitment to excellence.
+<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
+<hr>
+
+### Tickets
+To be announced
+
+<hr>
+
 ### Objective
-To bring together the thought leaders of the global football community to discuss and debate the future of sport, with a focus on the ways in which technology and data-driven decision-making can be leveraged to deepen fan engagement, build culture, lead to competitive advantages on-the-pitch, and create value for clubs’ communities—fans, players, leaders, sponsors, and owners.
+To bring together the thought leaders of the global football community to discuss and debate the future of sport, with a focus on the ways in which technology and data-driven decision-making can be leveraged to deepen fan engagement, build culture, lead to competitive advantages on-the-pitch, and create value for clubs’ communities — fans, players, leaders, sponsors, and owners.
 
 <hr>
 
@@ -39,7 +56,7 @@ In September 2022, Universidade Federal de Minas Gerais (UFMG) debuted a confere
 ### The September 2024 version
 Held on the campus of UFMG, is designed to expand the conference in two ways:
 - By expanding the geographic reach to broader regions of Brazil and South America and beyond, drawing participants, panelists, thought leaders, and attendees from the global football world
-- By adding a day focused on the business of football, to include sessions on fan engagement, revenue generation, the media landscape, sponsorships, and emerging streams and—topics for which all football clubs are seeking new learning
+- By adding a day focused on the business of football, to include sessions on fan engagement, revenue generation, the media landscape, sponsorships, and emerging streams and — topics for which all football clubs are seeking new learning
 
 <hr>
 
@@ -49,25 +66,25 @@ Held on the campus of UFMG, is designed to expand the conference in two ways:
 
 <hr>
 
-### The Program—The Future of Football
-- **September 4, 2024**—<a href='https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/preston-robert-tisch-institute-for-global-sport.html'>The Business of Global Football</a>
+### The Program — The Future of Football
+- **September 4, 2024** — <a href='../BGF24/'>The Business of Global Football</a>
     - Panels and Speakers Topics, with a focus on revenue generation and building brand loyalty:
-        - Fan Engagement—deepening clubs’ relationships with fans and ways to monetize the engagement
-        - The Media Landscape—in the wake of Brazil’s recent first division media rights deal, exploring the future of media
-        - Partnerships & Sponsorships—creating a strong value proposition for partners and exploring new assets to offer
-        - Emerging Revenue Streams—how do eSports, sports betting and the opportunity to expand the club’s brand globally fit into the priorities for clubs?
-        - AI and Data-Driven Decisions—the emerging role of AI in football
-        - Leadership and Innovation in Football—best practices regarding ways to create value for all stakeholders
-    - Clubs and Brands who have confirmed interest to participate—FC Bayern, Atlético Mineiro, Liverpool FC, Alibaba, Codajas Sports Capital, Montevideo City Torque, and AlphaPlay AI. Members of other organizations have expressed interest, including Club Tigres, Blue United, World Cup 2026, and others.
+        - Fan Engagement — deepening clubs’ relationships with fans and ways to monetize the engagement
+        - The Media Landscape — in the wake of Brazil’s recent first division media rights deal, exploring the future of media
+        - Partnerships & Sponsorships — creating a strong value proposition for partners and exploring new assets to offer
+        - Emerging Revenue Streams — how do eSports, sports betting and the opportunity to expand the club’s brand globally fit into the priorities for clubs?
+        - AI and Data-Driven Decisions — the emerging role of AI in football
+        - Leadership and Innovation in Football — best practices regarding ways to create value for all stakeholders
+    - Clubs and Brands who have confirmed interest to participate — Teams from Bundesliga (Germany), Premier League (England),  Liga MX (Mexico), Brasileirão (Brazil), championships organizers and brands of the football area. 
     - Evening networking reception and dinner for speakers, faculty, and special guests, which will provide an opportunity to expand everyone’s global network
-- **September 5, 2024**—<a href='../FAME24/'>Football Analytics: Modeling and Experience (FAME)</a>
+- **September 5, 2024** — <a href='../FAME24/'>Football Analytics: Modeling and Experience (FAME)</a>
     - A full day of discussions on how data can enhance various aspects of decision-making in football, ranging from squad-building and player evaluation, to in-match strategies. This will include innovative applications of generative AI to aid clubs in being more efficient. The topics include:
-        - Executives—bridging the gap between executive decision making and quantitative insights
-        - Scouting—how data can support not only the evaluation of players but automate and enhance the talent identification process in a club?
-        - Match Analysis—exploration of opponents’ traits and strategies that can be uncovered through the use of data
+        - Executives — bridging the gap between executive decision making and quantitative insights
+        - Scouting — how data can support not only the evaluation of players but automate and enhance the talent identification process in a club?
+        - Match Analysis — exploration of opponents’ traits and strategies that can be uncovered through the use of data
         - Performance–how can data give insight into the physical load players exert in training and matches?
         - Predictive models in football–What are some of the challenges of creating models in football and how should insights be communicated to non-technical stakeholders?
-    - Clubs and Brands who have confirmed interest in participating — Flamengo, Palmeiras, Atlético Mineiro, Red Bull Bragantino, Botafogo, Fluminense,  Cruzeiro, Ceará, América MG.
+    - Clubs and Brands who have confirmed interest in participating — Teams from Brasileirão (Brazil) as Flamengo, Palmeiras, Atlético Mineiro, Cruzeiro, Red Bull Bragantino, Botafogo, Fluminense, Ceará, América MG as they was on FAME '23. 
 
 <hr>
 
