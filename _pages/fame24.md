@@ -17,7 +17,7 @@ Garanta seu ingresso já para esse evento incrível! <a href='https://www.sympla
 <hr>
 
 ### Sobre o evento
-- **Data:** 05 de Setembro 2024
+- **Data:** 05 de Setembro de 2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a>, UFMG - Campus Pampulha
 - **Horário:** 8:30 às 18:30
 
