@@ -12,13 +12,9 @@ social: true  # includes social icons at the bottom of the page
 <!-- pages/fof24.md -->
 
 <div class="container">
-    <div class="row align-items-center">
-        <div class="col-6">
-            <img height="100" src="../assets/img/nyu-logo.png" alt="NYU Tisch Institute for Global Sport logo">
-        </div>
-        <div class="col-6">
-            <img height="100" src="../assets/img/ufmg-logo.png" alt="Federal Univrsity of Minas Gerais logo">
-        </div>
+    <div class="row align-items-center justify-content-between">
+            <img height="100" id="nyu-logo" src="../assets/img/nyu-logo-dark.png" alt="NYU Tisch Institute for Global Sport logo">
+            <img height="100" id="ufmg-logo" src="../assets/img/ufmg-logo-dark.png" alt="Federal Univrsity of Minas Gerais logo">
     </div>
 </div>
 <br><br><br>
@@ -92,3 +88,26 @@ Held on the campus of UFMG, is designed to expand the conference in two ways:
 - Executives from football clubs who want to hear and learn from others in the global football and sports industry, while building their professional network
 - Students who aspire to work in football or have an interest in the topics discussed
 - The event will be supported by NYU, UFMG, and sponsors, with a modest admission cost for students and professionals’ registration by invitation
+
+{::nomarkdown}
+
+<script>
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+function toggleImageBasedOnTheme(is_light) {
+    if (is_light) {
+        document.getElementById("ufmg-logo").src = "../assets/img/ufmg-preto-vermelho.png";
+        document.getElementById("nyu-logo").src = "../assets/img/nyu-roxo-preto.png";
+    } else {
+        document.getElementById("ufmg-logo").src = "../assets/img/ufmg-branco-vermelho.png";
+        document.getElementById("nyu-logo").src = "../assets/img/nyu-branco.png";
+    }
+}
+toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark');    
+
+const mode_toggle = document.getElementById("light-toggle");
+mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
+</script>
+
+{:/nomarkdown}
