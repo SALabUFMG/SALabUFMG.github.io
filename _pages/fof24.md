@@ -34,7 +34,7 @@ Be a part of our extraordinary event and showcase your brand's commitment to exc
 <hr>
 
 ### Tickets
-To be announced
+Get your tickets now for this amazing event! <a href='https://www.sympla.com.br/evento/future-of-football-conference-fame-24-business-of-global-football-ufmg-nyu/2559817'>Click here</a> to purchase your tickets and secure your spot.
 
 <hr>
 

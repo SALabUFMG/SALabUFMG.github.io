@@ -12,7 +12,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- pages/fame24.md -->
 
 ### Ingressos
-A ser anunciado.
+Garanta seu ingresso já para esse evento incrível! <a href='https://www.sympla.com.br/evento/future-of-football-conference-fame-24-business-of-global-football-ufmg-nyu/2559817'>Clique aqui</a> para comprar seu ingresso e garantir seu lugar.
 
 <hr>
 

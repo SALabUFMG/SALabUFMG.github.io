@@ -11,12 +11,12 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- pages/bgf24.md -->
 
-### Ingressos
-To be defined
+### Tickets
+Get your tickets now for this amazing event! <a href='https://www.sympla.com.br/evento/future-of-football-conference-fame-24-business-of-global-football-ufmg-nyu/2559817'>Click here</a> to purchase your tickets and secure your spot.
 
 <hr>
 
-### Sobre o evento
+### About the event
 - **Data:** 05/09/2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a>, UFMG - Campus Pampulha
 - **Horário:** 8:30 às 18:30
