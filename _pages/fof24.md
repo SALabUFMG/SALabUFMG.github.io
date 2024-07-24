@@ -63,24 +63,28 @@ Held on the campus of UFMG, is designed to expand the conference in two ways:
 <hr>
 
 ### The Program — The Future of Football
-- **September 4, 2024** — <a href='../BGF24/'>The Business of Global Football</a>
-    - Panels and Speakers Topics, with a focus on revenue generation and building brand loyalty:
-        - Fan Engagement — deepening clubs’ relationships with fans and ways to monetize the engagement
-        - The Media Landscape — in the wake of Brazil’s recent first division media rights deal, exploring the future of media
-        - Partnerships & Sponsorships — creating a strong value proposition for partners and exploring new assets to offer
-        - Emerging Revenue Streams — how do eSports, sports betting and the opportunity to expand the club’s brand globally fit into the priorities for clubs?
-        - AI and Data-Driven Decisions — the emerging role of AI in football
-        - Leadership and Innovation in Football — best practices regarding ways to create value for all stakeholders
-    - Clubs and Brands who have confirmed interest to participate — Teams from Bundesliga (Germany), Premier League (England),  Liga MX (Mexico), Brasileirão (Brazil), championships organizers and brands of the football area. 
-    - Evening networking reception and dinner for speakers, faculty, and special guests, which will provide an opportunity to expand everyone’s global network
-- **September 5, 2024** — <a href='../FAME24/'>Football Analytics: Modeling and Experience (FAME)</a>
-    - A full day of discussions on how data can enhance various aspects of decision-making in football, ranging from squad-building and player evaluation, to in-match strategies. This will include innovative applications of generative AI to aid clubs in being more efficient. The topics include:
-        - Executives — bridging the gap between executive decision making and quantitative insights
-        - Scouting — how data can support not only the evaluation of players but automate and enhance the talent identification process in a club?
-        - Match Analysis — exploration of opponents’ traits and strategies that can be uncovered through the use of data
-        - Performance–how can data give insight into the physical load players exert in training and matches?
-        - Predictive models in football–What are some of the challenges of creating models in football and how should insights be communicated to non-technical stakeholders?
-    - Clubs and Brands who have confirmed interest in participating — Teams from Brasileirão (Brazil) as Flamengo, Palmeiras, Atlético Mineiro, Cruzeiro, Red Bull Bragantino, Botafogo, Fluminense, Ceará, América MG as they was on FAME '23. 
+- **September 4, 2024** — <a href='../BGF24/'>The Business of Global Football</a> (NYU Leading Day)
+  - Panels and Speakers Topics, with a focus on revenue generation and building brand loyalty: 
+    - Fan Engagement, Media, and Partnerships — deepening clubs’ relationships with  fans and ways to monetize the engagement 
+    - Creating Value for Partners and Sponsors — identifying the key elements of a strong  value proposition for partners and sponsors 
+    - Multi-club & Multi-sport Ownership Model in Football — Exploring the synergies and  shared-service model from owning multiple football clubs 
+    - Women’s Football — women’s football is expanding at a rapid pace. We explore the  forces driving this acceleration. 
+    - Case Study — Strategic Global Partnerships — A collaboration between FC Bayern  Munich and Club Tigres  
+    - AI and Data-Driven Decisions — the emerging role of AI in football and the ways it is  changing the business of football 
+    - Leadership and Innovation in Football — best practices regarding ways to create  value for all stakeholders 
+  - Evening networking reception and dinner for speakers, faculty, and special guests, which  will provide an opportunity to expand everyone’s global network 
+  - **Audience, Partners and Guest speakers** 
+    - Confirmed participation includes leaders from brands, leagues and clubs, including  —  Gemini, FC Bayern, the Premier League, La Liga, Liga MX, Club Tigres, Atletico Mineiro, FIFA  World Cup 2026, Alibaba, and AlphaPlay AI.  
+    - Members of other organizations have expressed interest, including Cruzeiro, MLS,  Montevideo City Torque, Bundesliga, Blue United, World Cup 2026, Betano, NWSL, and  others. 
+- **September 5, 2024** — <a href='../FAME24/'>FAME: Football Advanced Modeling Experience</a> (UFMG Leading day) 
+    - Full day of applications of technical tools to enhance decision-making on the pitch, ranging  from player evaluation and selection, to in-match strategies. This will include innovate  applications of generative AI to aid clubs to be more competitive. Topics include: 
+      - Executives — bridging the gap between executive decision making and quantitative  insights 
+      - Scouting — how data can support not only the evaluation of players but automate  and enhance the talent identification process in a club?
+      - Match Analysis — exploration of opponents’ traits and strategies that can be  uncovered using data 
+      - Performance–how can data give insight into the physical load players exert in  training and matches? 
+      - Predictive models in football–What are some of the challenges of creating models  in football and how should insights be communicated to non-technical  
+      stakeholders? 
+    - Clubs and Brands who have confirmed interest in participating — Flamengo, Palmeiras,  Atletico Mineiro, Red Bull Bragantino, Botafogo, Fluminense, Cruzeiro, Ceará, América MG. 
 
 <hr>
 
