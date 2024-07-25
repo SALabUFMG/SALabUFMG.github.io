@@ -133,7 +133,7 @@ social: true  # includes social icons at the bottom of the page
         <br>
     </div>
     <div class="col-12 embed-responsive embed-responsive-16by9">
-        {% include video.html path="https://www.youtube.com/embed/bv0gQ7Sag" class="img-fluid rounded z-depth-1 embed-responsive-item" %}
+        {% include video.html path="https://www.youtube.com/embed/bv0gQ7Sag-c" class="img-fluid rounded z-depth-1 embed-responsive-item" %}
     </div>
 </div>
 
