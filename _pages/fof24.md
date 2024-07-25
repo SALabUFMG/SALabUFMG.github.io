@@ -16,8 +16,7 @@ social: true  # includes social icons at the bottom of the page
             <img width="45%" id="nyu-logo" src="../assets/img/nyu-short.png" alt="NYU Tisch Institute for Global Sport logo">
             <img width="45%" id="ufmg-logo" src="../assets/img/ufmg-preto-vermelho.png" alt="Federal Univrsity of Minas Gerais logo">
     </div>
-</div>
-<br><br><br>
+</div><br>
 Join us for an exciting event brought to you by a collaboration between two leading universities. This unique partnership brings together the best of academic minds and innovative ideas, promising a stimulating and enriching experience for all attendees. 
 
 <hr>
@@ -50,9 +49,9 @@ In September 2022, Universidade Federal de Minas Gerais (UFMG) debuted a confere
 <hr>
 
 ### The September 2024 version
-Held on the campus of UFMG, is designed to expand the conference in two ways:
+Held on the campus of UFMG, Future of Football is designed to expand the conference in two ways:
 - By expanding the geographic reach to broader regions of Brazil and South America and beyond, drawing participants, panelists, thought leaders, and attendees from the global football world
-- By adding a day focused on the business of football, to include sessions on fan engagement, revenue generation, the media landscape, sponsorships, and emerging streams and — topics for which all football clubs are seeking new learning
+- By adding a day focused on the business of football, to include sessions on fan engagement, revenue generation, media landscape, sponsorships, and emerging streams — topics for which all football clubs are seeking new learning
 
 <hr>
 
@@ -96,9 +95,6 @@ Held on the campus of UFMG, is designed to expand the conference in two ways:
 {::nomarkdown}
 
 <script>
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
 function toggleImageBasedOnTheme(is_light) {
     if (is_light) {
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-preto-vermelho.png";
@@ -112,6 +108,23 @@ toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark');
 
 const mode_toggle = document.getElementById("light-toggle");
 mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select the element with class "post-title"
+    var postTitle = document.querySelector(".post-title");
+
+    // Create a new image element
+    var image = document.createElement("img");
+    image.src = "../assets/img/logo_oficial_FoF.png"; // Replace with your image path
+    image.alt = "The Future of Football '24 (1st Edition)"; // Provide alt text for accessibility
+    image.style.width = "100%";
+
+    // Clear the current content of the post-title element and append the image to the post-title element
+    postTitle.innerHTML = "";
+    postTitle.appendChild(image);
+  });
 </script>
 
 {:/nomarkdown}
