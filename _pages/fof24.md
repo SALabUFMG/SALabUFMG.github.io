@@ -97,34 +97,37 @@ Held on the campus of UFMG, Future of Football is designed to expand the confere
 <script>
 function toggleImageBasedOnTheme(is_light) {
     if (is_light) {
+        document.getElementById("fof-logo").src = "../assets/img/fof_blue.png";
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-preto-vermelho.png";
         document.getElementById("nyu-logo").src = "../assets/img/nyu-short.png";
     } else {
+        document.getElementById("fof-logo").src = "../assets/img/fof_blue_with_white_bg.png";
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-branco-vermelho.png";
         document.getElementById("nyu-logo").src = "../assets/img/nyu-short-white.png";
     }
 }
-toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark');    
 
-const mode_toggle = document.getElementById("light-toggle");
-mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
-</script>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
+function toggleTitle() {
     // Select the element with class "post-title"
     var postTitle = document.querySelector(".post-title");
 
     // Create a new image element
     var image = document.createElement("img");
-    image.src = "../assets/img/logo_oficial_FoF.png"; // Replace with your image path
+    image.id = "fof-logo"; // Replace with your image path
+    image.src = "../assets/img/fof_blue.png"; // Replace with your image path
     image.alt = "The Future of Football '24 (1st Edition)"; // Provide alt text for accessibility
     image.style.width = "100%";
 
     // Clear the current content of the post-title element and append the image to the post-title element
     postTitle.innerHTML = "";
     postTitle.appendChild(image);
-  });
+  }
+
+const mode_toggle = document.getElementById("light-toggle");
+mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
+
+document.addEventListener("DOMContentLoaded", toggleTitle());
+document.addEventListener("DOMContentLoaded", toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark'));
 </script>
 
 {:/nomarkdown}
