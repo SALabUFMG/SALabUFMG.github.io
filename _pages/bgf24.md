@@ -17,7 +17,7 @@ Get your tickets now for this amazing event! <a href='https://www.sympla.com.br/
 <hr>
 
 ### About the event
-- **Date:** September 05, 2024
+- **Date:** September 04, 2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a>, UFMG - Campus Pampulha
 - **Hour:** 12:00pm to 6:30pm
 
