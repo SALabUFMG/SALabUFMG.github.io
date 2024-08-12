@@ -31,5 +31,5 @@ As submissões devem ser enviadas através <a href='https://forms.gle/f8cB7b6hU3
 Os trabalhos aceitos receberão uma confirmação por email. Para fins de apresentação, os autores devem preparar um pôster, no formato A1, que será exposto no evento. 
 Além disso, os melhores trabalhos serão convidados para apresentação oral em sessão técnica. 
 ### Datas Importantes
-- **Submissão:** até 12/08/24 às 23h59
-- **Aceite:** até 22/08/24 às 23h59
+- **Submissão:** até ~~12/08/24~~ 19/08 às 23h59
+- **Aceite:** até 25/08/24 às 23h59
