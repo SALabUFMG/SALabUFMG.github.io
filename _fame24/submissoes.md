@@ -23,8 +23,8 @@ As submissões podem abranger, mas não se limitam a:
 - Otimização de treinamento e performance física
 
 ### Submissão
-A submissão consiste no envio de um <strong>resumo de até 1000 palavras</strong> em formato PDF e de acordo com o <a href='https://pt.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr'>template da SBC</a> descrevendo o 
-, descrevendo o problema, a metodologia, os resultados e as conclusões do trabalho.
+A submissão consiste no envio de um <strong>resumo de até 1000 palavras</strong> em formato PDF e de acordo com o <a href='https://pt.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr'>template da SBC</a> 
+descrevendo o problema, a metodologia, os resultados e as conclusões do trabalho.
 As submissões devem ser enviadas através <a href='https://forms.gle/f8cB7b6hU3Bdaxi98'>deste formulário</a> até 12/08/24, às 23h59.
 
 ### Aceitação e publicação
