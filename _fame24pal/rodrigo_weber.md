@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/FAME/2024/rodrigo_weber.jpeg
+img: assets/img/FAME/2024/rodrigo_weber.jpg
 first_name: Rodrigo
 last_name: Weber
 short_name: 
