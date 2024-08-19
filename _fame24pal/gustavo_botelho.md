@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/team/gustavo_botelho.jpg
+img: assets/img/FAME/2024/gustavo_botelho.jpg
 first_name: Gustavo 
 last_name: Botelho
 short_name: 

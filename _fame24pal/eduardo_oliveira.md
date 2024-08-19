@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/team/eduardo_oliveira.jpg
+img: assets/img/FAME/2024/eduardo_oliveira.jpg
 first_name: Eduardo 
 last_name: Oliveira
 short_name: 
