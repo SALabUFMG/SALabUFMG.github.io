@@ -12,6 +12,6 @@ one_liner: Data Science, Sports Analytics.
 personal_page: http://laredoo.github.io/
 scholar_userid: 
 github_username: laredoo
-twitter_username: https://twitter.com/devlucaslaredo
+twitter_username: devlucaslaredo
 linkedin_username: lucaslaredo
 ---
