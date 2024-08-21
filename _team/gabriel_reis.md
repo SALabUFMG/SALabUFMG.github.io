@@ -1,13 +1,13 @@
 ---
 layout: page
-category: BS-Students
+category: MSc-Students
 img: assets/img/team/Gabriel-Reis.jpg
 first_name: Gabriel
 last_name: Reis Gama Barbosa
 short_name: Gabriel Reis
 email: grgb@ufmg.br
-importance: 1
-role: BS Student
+importance: 2
+role: MSc Student
 one_liner: Machine Learning, Sports Analytics.
 personal_page: 
 scholar_userid: 
