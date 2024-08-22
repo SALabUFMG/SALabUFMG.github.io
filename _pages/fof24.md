@@ -21,15 +21,20 @@ Join us for an exciting event brought to you by a collaboration between two lead
 
 <hr>
 
+### Sponsorship
+Sponsored by: <br/>
+<a href="https://geminisports.ai">
+    <img width="50%" id="gemini-logo" src="../assets/img/FAME/2023/gemini-header.png" alt="Gemini Sports Analytics logo">
+</a>
+
+Be a part of our extraordinary event and showcase your brand's commitment to excellence.
+<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
+<hr>
+
 ### About the event
 - **Date:** September 4 and 5, 2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Center for Didactic Activities 3</a>, Campus Pampulha UFMG - Belo Horizonte, Minas Gerais - Brazil
 
-<hr>
-
-### Sponsorship
-Be a part of our extraordinary event and showcase your brand's commitment to excellence.
-<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
 <hr>
 
 ### Tickets
