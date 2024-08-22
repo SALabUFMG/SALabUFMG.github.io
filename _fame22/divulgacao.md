@@ -8,6 +8,7 @@ category: work
 related_publications:
 ---
 <hr>
+
 #### Portal UFMG
 O canal oficial da Universidade Federal de Minas Gerais (UFMG) escreveu um 
 <a href='https://ufmg.br/comunicacao/assessoria-de-imprensa/release/evento-promovido-pela-ufmg-e-pelo-clube-atletico-mineiro-discute-a-modelagem-e-experiencia-de-analise-de-futebol'>comunicado</a> 
