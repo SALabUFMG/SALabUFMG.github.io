@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/team/Gabriel-Reis.jpg
+img: assets/img/team/Leo-Martins.jpg
 first_name: Leo
 last_name: M. Sá-Freire
 short_name: 

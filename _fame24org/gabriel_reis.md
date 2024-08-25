@@ -1,7 +1,7 @@
 ---
 layout: page
 category: 
-img: assets/img/team/Leo-Martins.jpg
+img: assets/img/team/Gabriel-Reis.jpg
 first_name: Gabriel
 last_name: Reis Gama Barbosa
 short_name: 
