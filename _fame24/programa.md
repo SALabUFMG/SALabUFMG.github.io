@@ -80,7 +80,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 12h30-14h -->
     <tr>
-        <td rowspan="1">12h30-14h</td>
+        <td rowspan="1">12h30-14h00</td>
         <td rowspan="1">Intervalo de Almoço</td>
         <td></td>
         <td></td>
