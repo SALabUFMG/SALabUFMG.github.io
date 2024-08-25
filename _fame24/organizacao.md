@@ -11,7 +11,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- pages/organizacao.md -->
 <div class="team">
     <!-- Display people -->
-    {%- assign ordered_people = site.fame23org | sort: "importance" %}
+    {%- assign ordered_people = site.fame24org | sort: "importance" %}
     <!-- Generate cards for each person -->
     <div class="grid">
         {%- for person in ordered_people -%}
