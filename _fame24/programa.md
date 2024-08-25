@@ -16,13 +16,13 @@ social: true  # includes social icons at the bottom of the page
         <th>Cargo(s)</th>
     </tr>
     <tr>
-        <td rowspan="1">8h30 - 9h</td>
+        <td rowspan="1">8h30 - 9h00</td>
         <td rowspan="1">Credenciamento e Welcome Coffee</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td rowspan="1">9h - 9h15</td>
+        <td rowspan="1">9h00 - 9h15</td>
         <td rowspan="1">Abertura</td>
         <td></td>
         <td></td>
@@ -87,7 +87,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 14h-14h45 -->
     <tr>
-        <td rowspan="2">14h-14h45</td>
+        <td rowspan="2">14h00-14h45</td>
         <td rowspan="2">SALab - Gandula</td>
         <td>Ricardo Furbino</td>
         <td>Estagiário da src | ftbl e aluno de graduação em Ciência da Computação na UFMG</td>
@@ -139,7 +139,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 18h00-18h15 -->
     <tr>
-        <td rowspan="1">18h-18h15</td>
+        <td rowspan="1">18h00-18h15</td>
         <td rowspan="1">Encerramento</td>
         <td></td>
         <td></td>
