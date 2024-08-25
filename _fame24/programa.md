@@ -94,7 +94,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td>Thiago Costa Porto</td>
-        <td></td>
+        <td>Tech Lead da Open Mined</td>
     </tr>
     <!-- 14h50-15h35 -->
     <tr>
