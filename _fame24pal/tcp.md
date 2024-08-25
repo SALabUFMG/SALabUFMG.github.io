@@ -1,7 +1,7 @@
 ---
 layout: page
 category:
-img: assets/img/FAME/2024/tcp.jpg"
+img: assets/img/FAME/2024/tcp.jpg
 first_name: Thiago
 last_name: Costa Porto
 short_name:
