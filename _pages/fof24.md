@@ -13,7 +13,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div class="container">
     <div class="row align-items-center justify-content-between">
-            <img width="45%" id="nyu-logo" src="../assets/img/nyu-short.png" alt="NYU Tisch Institute for Global Sport logo">
+            <img width="45%" id="nyu-logo" src="../assets/img/FoF/fof/nyu-short.png" alt="NYU Tisch Institute for Global Sport logo">
             <img width="45%" id="ufmg-logo" src="../assets/img/ufmg-preto-vermelho.png" alt="Federal Univrsity of Minas Gerais logo">
     </div>
 </div><br>
@@ -21,15 +21,20 @@ Join us for an exciting event brought to you by a collaboration between two lead
 
 <hr>
 
+### Sponsorship
+Sponsored by: <br/>
+<a href="https://geminisports.ai">
+    <img width="50%" id="gemini-logo" src="../assets/img/FAME/2023/gemini-header.png" alt="Gemini Sports Analytics logo">
+</a>
+
+Be a part of our extraordinary event and showcase your brand's commitment to excellence.
+<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
+<hr>
+
 ### About the event
 - **Date:** September 4 and 5, 2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Center for Didactic Activities 3</a>, Campus Pampulha UFMG - Belo Horizonte, Minas Gerais - Brazil
 
-<hr>
-
-### Sponsorship
-Be a part of our extraordinary event and showcase your brand's commitment to excellence.
-<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
 <hr>
 
 ### Tickets
@@ -97,13 +102,13 @@ Held on the campus of UFMG, Future of Football is designed to expand the confere
 <script>
 function toggleImageBasedOnTheme(is_light) {
     if (is_light) {
-        document.getElementById("fof-logo").src = "../assets/img/fof_blue.png";
+        document.getElementById("fof-logo").src = "../assets/img/FoF/fof_blue.png";
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-preto-vermelho.png";
-        document.getElementById("nyu-logo").src = "../assets/img/nyu-short.png";
+        document.getElementById("nyu-logo").src = "../assets/img/FoF/nyu-short.png";
     } else {
-        document.getElementById("fof-logo").src = "../assets/img/fof_blue_with_white_bg.png";
+        document.getElementById("fof-logo").src = "../assets/img/FoF/fof_blue_with_white_bg.png";
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-branco-vermelho.png";
-        document.getElementById("nyu-logo").src = "../assets/img/nyu-short-white.png";
+        document.getElementById("nyu-logo").src = "../assets/img/FoF/nyu-short-white.png";
     }
 }
 
@@ -114,7 +119,7 @@ function toggleTitle() {
     // Create a new image element
     var image = document.createElement("img");
     image.id = "fof-logo"; // Replace with your image path
-    image.src = "../assets/img/fof_blue.png"; // Replace with your image path
+    image.src = "../assets/img/FoF/fof_blue.png"; // Replace with your image path
     image.alt = "The Future of Football '24 (1st Edition)"; // Provide alt text for accessibility
     image.style.width = "100%";
 

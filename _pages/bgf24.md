@@ -11,6 +11,16 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- pages/bgf24.md -->
 
+### Sponsorship
+Sponsored by: <br/>
+<a href="https://geminisports.ai">
+    <img width="50%" id="gemini-logo" src="../assets/img/FAME/2023/gemini-header.png" alt="Gemini Sports Analytics logo">
+</a>
+
+Be a part of our extraordinary event and showcase your brand's commitment to excellence.
+<a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
+<hr>
+
 ### Tickets
 Get your tickets now for this amazing event! <a href='https://www.sympla.com.br/evento/future-of-football-conference-fame-24-business-of-global-football-ufmg-nyu/2559817'>Click here</a> to purchase your tickets and secure your spot.
 
