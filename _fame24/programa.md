@@ -106,8 +106,8 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 14h50-15h35 -->
     <tr>
-        <td rowspan="3">14h50-15h35</td>
-        <td rowspan="3">Painel: Usando Dados na Análise de Adversários - Possibilidades e Limitações
+        <td rowspan="4">14h50-15h35</td>
+        <td rowspan="4">Painel: Usando Dados na Análise de Adversários - Possibilidades e Limitações
 </td>
         <td>Eduardo Oliveira</td>
         <td>Analista de Dados do Athletico Paranaense</td>
@@ -119,6 +119,10 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td>Pedro Pereira</td>
         <td>Cientista de Dados do Fluminense e doutor em fisiologia pelo Instituto de Biofísica da UFRJ</td>
+    </tr>
+    <tr>
+        <td>Eduardo Dias (Moderador)</td>
+        <td>CEO do Footure</td>
     </tr>
  <!-- 15h35-16h35 -->
     <tr>
