@@ -47,19 +47,19 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td>Hugo Rios Neto (Moderador)</td>
-        <td>Engenheiro de Inteligência da Gemini Sports Analytics e aluno de mestrado de Ciência da Computação da UFMG</td>
+        <td>Engenheiro de Inteligência da Gemini Sports Analytics e aluno de mestrado em Ciência da Computação pela UFMG</td>
     </tr>
     <!-- 10h40-11h10 -->
     <tr>
-        <td rowspan="1">10h15-10h30</td>
+        <td rowspan="1">10h40-11h10</td>
         <td rowspan="1">Quais Indicadores de Desempenho Predizem Vitórias nas Cinco principais Ligas da CONMEBOL e da UEFA?</td>
         <td>André Braga</td>
         <td>Mestre em Ciência do Esporte pela UFMG</td>
     </tr>
     <!-- 11h15-12h00 -->
     <tr>
-        <td rowspan="3">11h15-12h00</td>
-        <td rowspan="3">Painel: Previsões no Futebol - Lidando com a Incerteza e Aleatoriedade do jogo</td>
+        <td rowspan="4">11h15-12h00</td>
+        <td rowspan="4">Painel: Previsões no Futebol - Lidando com a Incerteza e Aleatoriedade do jogo</td>
         <td>Pedro Henrique González </td>
         <td>Professor da UFRJ</td>
     </tr>
@@ -70,6 +70,10 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td>Sérgio Pessoa</td>
         <td>Cientista de Dados do Atlético Mineiro </td>
+    </tr>
+    <tr>
+        <td>Leo M. Sá Freire (Moderador)</td>
+        <td>Cientista de Dados do Atlético Mineiro e aluno de mestrado em Ciência da Computação pela UFMG</td>
     </tr>
     <!-- 10h45-11h15 -->
     <tr>
