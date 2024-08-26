@@ -77,8 +77,8 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <!-- 10h45-11h15 -->
     <tr>
-        <td rowspan="1">12h00-12h30</td>
-        <td rowspan="1">Patrocinador: Gemini Sports Analytics</td>
+        <td rowspan="2">12h00-12h30</td>
+        <td rowspan="2">Patrocinador: Gemini Sports Analytics</td>
         <td></td>
         <td></td>
     </tr>
@@ -86,8 +86,12 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="1">12h30-14h00</td>
         <td rowspan="1">Intervalo de Almoço</td>
-        <td></td>
-        <td></td>
+        <td>Jake Schuster </td>
+        <td>CEO da Gemini Sports Analytics</td>
+    </tr>
+    <tr>
+        <td>Zac Robertson</td>
+        <td>Principal Data Scientist da Gemini Sports Analytics</td>
     </tr>
     <!-- 14h-14h45 -->
     <tr>
