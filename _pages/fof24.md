@@ -80,7 +80,7 @@ Held on the campus of UFMG, Future of Football is designed to expand the confere
   - **Audience, Partners and Guest speakers** 
     - Confirmed participation includes leaders from brands, leagues and clubs, including  —  Gemini, FC Bayern, the Premier League, La Liga, Liga MX, Club Tigres, Atletico Mineiro, FIFA  World Cup 2026, Alibaba, and AlphaPlay AI.  
     - Members of other organizations have expressed interest, including Cruzeiro, MLS,  Montevideo City Torque, Bundesliga, Blue United, World Cup 2026, Betano, NWSL, and  others. 
-- **September 5, 2024** — <a href='../FAME24/'>FAME: Football Advanced Modeling Experience</a> (UFMG Leading day) 
+- **September 5, 2024** — <a href='../FAME24/'>FAME: Football Analytics and Modeling Experience</a> (UFMG Leading day) 
     - Full day of applications of technical tools to enhance decision-making on the pitch, ranging  from player evaluation and selection, to in-match strategies. This will include innovate  applications of generative AI to aid clubs to be more competitive. Topics include: 
       - Executives — bridging the gap between executive decision making and quantitative  insights 
       - Scouting — how data can support not only the evaluation of players but automate  and enhance the talent identification process in a club?
