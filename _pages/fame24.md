@@ -12,10 +12,19 @@ social: true  # includes social icons at the bottom of the page
 <!-- pages/fame24.md -->
 
 ### Patrocínio
-Patrocinado por: <br/>
-<a href="https://geminisports.ai">
-    <img width="50%" id="gemini-logo" src="../assets/img/FAME/2023/gemini-header.png" alt="logo da Gemini Sports Analytics">
-</a>
+Patrocinado por: 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='gemini-logo' style="width: 100%;" src="../assets/img/FoF/logo_gemini_original.png" alt="Gemini Sports Analytics logo">
+        </a>
+    </div>
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='onefan-logo' style="width: 100%;" src="../assets/img/FoF/logo_onefan_original.png" alt="OneFan logo">
+        </a>
+    </div>
+</div>
 
 Faça parte do nosso evento extraordinário e mostre o compromisso da sua marca com a excelência. 
 <a href='../sponsorship/'>Clique aqui</a> para explorar nossos pacotes exclusivos de patrocínio e descubra como podemos 
@@ -98,3 +107,25 @@ Visite o <a href="../HandsOn24/">link</a> do workshop e saiba mais.
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+
+{::nomarkdown}
+
+<script>
+function toggleImageBasedOnTheme(is_light) {
+    if (is_light) {
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_original.png";
+        document.getElementById("onefan-logo").src = "../assets/img/FoF/logo_onefan_original.png";
+    } else {
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_branco.png";
+        document.getElementById("onefan-logo").src = "../assets/img/FoF/logo_onefan_branco.png";
+    }
+}
+const mode_toggle = document.getElementById("light-toggle");
+mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
+
+document.addEventListener("DOMContentLoaded", toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark'));
+</script>
+
+{:/nomarkdown}

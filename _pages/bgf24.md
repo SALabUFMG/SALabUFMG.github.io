@@ -13,9 +13,18 @@ social: true  # includes social icons at the bottom of the page
 
 ### Sponsorship
 Sponsored by: <br/>
-<a href="https://geminisports.ai">
-    <img width="50%" id="gemini-logo" src="../assets/img/FAME/2023/gemini-header.png" alt="Gemini Sports Analytics logo">
-</a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='gemini-logo' style="width: 100%;" src="../assets/img/FoF/logo_gemini_original.png" alt="Gemini Sports Analytics logo">
+        </a>
+    </div>
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='onefan-logo' style="width: 100%;" src="../assets/img/FoF/logo_onefan_original.png" alt="OneFan logo">
+        </a>
+    </div>
+</div>
 
 Be a part of our extraordinary event and showcase your brand's commitment to excellence.
 <a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
@@ -33,3 +42,26 @@ Get your tickets now for this amazing event! <a href='https://www.sympla.com.br/
 
 <hr>
 
+
+
+
+
+{::nomarkdown}
+
+<script>
+function toggleImageBasedOnTheme(is_light) {
+    if (is_light) {
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_original.png";
+        document.getElementById("onefan-logo").src = "../assets/img/FoF/logo_onefan_original.png";
+    } else {
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_branco.png";
+        document.getElementById("onefan-logo").src = "../assets/img/FoF/logo_onefan_branco.png";
+    }
+}
+const mode_toggle = document.getElementById("light-toggle");
+mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
+
+document.addEventListener("DOMContentLoaded", toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark'));
+</script>
+
+{:/nomarkdown}

@@ -13,7 +13,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div class="container">
     <div class="row align-items-center justify-content-between">
-            <img width="45%" id="nyu-logo" src="../assets/img/FoF/fof/nyu-short.png" alt="NYU Tisch Institute for Global Sport logo">
+            <img width="45%" id="nyu-logo" src="../assets/img/FoF/nyu-short.png" alt="NYU Tisch Institute for Global Sport logo">
             <img width="45%" id="ufmg-logo" src="../assets/img/ufmg-preto-vermelho.png" alt="Federal Univrsity of Minas Gerais logo">
     </div>
 </div><br>
@@ -23,9 +23,18 @@ Join us for an exciting event brought to you by a collaboration between two lead
 
 ### Sponsorship
 Sponsored by: <br/>
-<a href="https://geminisports.ai">
-    <img width="50%" id="gemini-logo" src="../assets/img/FAME/2023/gemini-header.png" alt="Gemini Sports Analytics logo">
-</a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='gemini-logo' style="width: 100%;" src="../assets/img/FoF/logo_gemini_original.png" alt="Gemini Sports Analytics logo">
+        </a>
+    </div>
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='onefan-logo' style="width: 100%;" src="../assets/img/FoF/logo_onefan_original.png" alt="OneFan logo">
+        </a>
+    </div>
+</div>
 
 Be a part of our extraordinary event and showcase your brand's commitment to excellence.
 <a href='../sponsorship/'>Click here</a> to explore our exclusive sponsorship packages and discover how we can create a tailored partnership that aligns with your goals.
@@ -105,10 +114,14 @@ function toggleImageBasedOnTheme(is_light) {
         document.getElementById("fof-logo").src = "../assets/img/FoF/fof_blue.png";
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-preto-vermelho.png";
         document.getElementById("nyu-logo").src = "../assets/img/FoF/nyu-short.png";
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_original.png";
+        document.getElementById("onefan-logo").src = "../assets/img/FoF/logo_onefan_original.png";
     } else {
         document.getElementById("fof-logo").src = "../assets/img/FoF/fof_blue_with_white_bg.png";
         document.getElementById("ufmg-logo").src = "../assets/img/ufmg-branco-vermelho.png";
         document.getElementById("nyu-logo").src = "../assets/img/FoF/nyu-short-white.png";
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_branco.png";
+        document.getElementById("onefan-logo").src = "../assets/img/FoF/logo_onefan_branco.png";
     }
 }
 
