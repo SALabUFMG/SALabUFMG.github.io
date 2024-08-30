@@ -203,7 +203,7 @@ collections:
     permalink: /BGF24/:path/
   bgf24pal:
     output: true
-    permalink: /BGF24/palestrantes/:path/
+    permalink: /BGF24/speakers/:path/
 
 announcements:
   enabled: true
