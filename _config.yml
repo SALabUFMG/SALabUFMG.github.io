@@ -198,6 +198,12 @@ collections:
   fame24pal:
     output: true
     permalink: /FAME24/palestrantes/:path/
+  bgf24:
+    output: true
+    permalink: /BGF24/:path/
+  bgf24pal:
+    output: true
+    permalink: /BGF24/speakers/:path/
 
 announcements:
   enabled: true
