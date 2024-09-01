@@ -133,21 +133,21 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
     <td rowspan="1">16h35-17h00</td>
-    <td rowspan="1">Melhor Trabalho Submetido 1: TBD</td>
-    <td>TBD</td>
-    <td></td>
+    <td rowspan="1">Análise Espacial de Interceptações no Futebol: A Abordagem Voronoi</td>
+    <td>Antônio Caetano Neves Neto, Bernardo Dutra Lemos, João Lucas Simões Moreira, Raphael Aroldo Carreiro Mendes</td>
+    <td>Universidade Federal De Minas Gerais (UFMG)</td>
     </tr>
     <tr>
     <td rowspan="1">17h05-17h30</td>
-    <td rowspan="1">Melhor Trabalho Submetido 2: TBD</td>
-    <td>TBD</td>
-    <td></td>
+    <td rowspan="1">Seleção Ótima de Equipes: Uma Abordagem Integrada de IA e Programação Inteira</td>
+    <td>Letícia Maia Távora, Glauco Fiorott Amorim, Pedro Henrique González</td>
+    <td>CEFET-RJ/PESC</td>
     </tr>
     <tr>
     <td rowspan="1">17h35-18h00</td>
-    <td rowspan="1">Melhor Trabalho Submetido 3: TBD</td>
-    <td>TBD</td>
-    <td></td>
+    <td rowspan="1">Ferramenta VAR e seu impacto no desempenho da Arbitragem Paulista</td>
+    <td>Bernardo Martins</td>
+    <td>FPF - Federação Paulista de Futebol</td>
     </tr>
     <!-- 18h00-18h15 -->
     <tr>
