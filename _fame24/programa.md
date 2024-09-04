@@ -34,31 +34,9 @@ social: true  # includes social icons at the bottom of the page
         <td>Gustavo Botelho</td>
         <td>CEO da DAXY - Sistemas para o Futebol</td>
     </tr>
-    <!-- 9h45-10h15 -->
+    <!-- 9h50-10h35 -->
     <tr>
-        <td rowspan="3">9h50-10h35</td>
-        <td rowspan="3">Painel: Data Scouting - Integrando os Dados no Processo de Mercado</td>
-        <td>Rodrigo Weber </td>
-        <td>Head de Mercado do Atlético Mineiro</td>
-    </tr>
-    <tr>
-        <td>Téo Benjamin</td>
-        <td>Head de Dados do Flamengo</td>
-    </tr>
-    <tr>
-        <td>Hugo Rios Neto (Moderador)</td>
-        <td>Engenheiro de Inteligência da Gemini Sports Analytics e aluno de mestrado em Ciência da Computação pela UFMG</td>
-    </tr>
-    <!-- 10h40-11h10 -->
-    <tr>
-        <td rowspan="1">10h40-11h10</td>
-        <td rowspan="1">Quais Indicadores de Desempenho Predizem Vitórias nas Cinco principais Ligas da CONMEBOL e da UEFA?</td>
-        <td>André Braga</td>
-        <td>Mestre em Ciência do Esporte pela UFMG</td>
-    </tr>
-    <!-- 11h15-12h00 -->
-    <tr>
-        <td rowspan="4">11h15-12h00</td>
+        <td rowspan="4">9h50-10h35</td>
         <td rowspan="4">Painel: Previsões no Futebol - Lidando com a Incerteza e Aleatoriedade do jogo</td>
         <td>Pedro Henrique González </td>
         <td>Professor da UFRJ</td>
@@ -75,9 +53,16 @@ social: true  # includes social icons at the bottom of the page
         <td>Leo M. Sá Freire (Moderador)</td>
         <td>Cientista de Dados do Atlético Mineiro e aluno de mestrado em Ciência da Computação pela UFMG</td>
     </tr>
-    <!-- 10h45-11h15 -->
+    <!-- 10h40-11h10 -->
     <tr>
-        <td rowspan="2">12h00-12h30</td>
+        <td rowspan="1">10h40-11h10</td>
+        <td rowspan="1">Quais Indicadores de Desempenho Predizem Vitórias nas Cinco principais Ligas da CONMEBOL e da UEFA?</td>
+        <td>André Braga</td>
+        <td>Mestre em Ciência do Esporte pela UFMG</td>
+    </tr>
+    <!-- 11h15-11h45 -->
+    <tr>
+        <td rowspan="2">11h15-11h45</td>
         <td rowspan="2">Patrocinador: Gemini Sports Analytics</td>
         <td>Jake Schuster </td>
         <td>CEO da Gemini Sports Analytics</td>
@@ -85,6 +70,21 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td>Zac Robertson</td>
         <td>Principal Data Scientist da Gemini Sports Analytics</td>
+    </tr>
+    <!-- 11h45-12h30 -->
+    <tr>
+        <td rowspan="3">11h45-12h30</td>
+        <td rowspan="3">Painel: Data Scouting - Integrando os Dados no Processo de Mercado</td>
+        <td>Rodrigo Weber </td>
+        <td>Head de Mercado do Atlético Mineiro</td>
+    </tr>
+    <tr>
+        <td>Téo Benjamin</td>
+        <td>Head de Dados do Flamengo</td>
+    </tr>
+    <tr>
+        <td>Hugo Rios Neto (Moderador)</td>
+        <td>Engenheiro de Inteligência da Gemini Sports Analytics e aluno de mestrado em Ciência da Computação pela UFMG</td>
     </tr>
     <!-- 12h30-14h -->
     <tr>
