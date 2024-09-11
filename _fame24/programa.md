@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programação
-description: Programa ainda em construção e sujeito a alterações
+description:
 img: assets/img/FAME/2022/schedule-icon.jpeg
 importance: 2
 category: work
