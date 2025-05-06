@@ -1,13 +1,13 @@
 ---
 layout: page
-category: BS-Students
+category: MSc-Students
 img: assets/img/team/Joao-Lucas.png
 first_name: João Lucas
 last_name: Lage Gonçalves
 short_name: João Lucas
 email: joao.lucas@dcc.ufmg.br
 importance: 1
-role: BS Student
+role: MSc Student
 one_liner: Data Science, Machine Learning, Sports Analytics.
 personal_page: 
 scholar_userid: 

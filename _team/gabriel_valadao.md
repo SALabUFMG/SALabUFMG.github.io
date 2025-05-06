@@ -1,13 +1,13 @@
 ---
 layout: page
-category: BS-Students
+category: MSc-Students
 img: assets/img/team/Gabriel-Valadao.jpg
 first_name: Gabriel
 last_name: Valadão Meira
 short_name: Gabriel Meira
 email: gabriel.valadao@dcc.ufmg.br
 importance: 1
-role: BS Student
+role: MSc Student
 one_liner: Data Science, Machine Learning, Sports Analytics.
 personal_page: 
 scholar_userid: 

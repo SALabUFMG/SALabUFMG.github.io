@@ -1,13 +1,13 @@
 ---
 layout: page
-category: BS-Students
+category: MSc-Students
 img: assets/img/team/Ricardo-Furbino.jpg
 first_name: Ricardo
 last_name: Furbino M. do Nascimento
 short_name: Ricardo Furbino
 email: ricardofurbino@gmail.com
 importance: 1
-role: BS Student
+role: MSc Student
 one_liner: Machine Learning, Sports Analytics.
 personal_page:
 scholar_userid:
