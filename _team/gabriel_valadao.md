@@ -6,7 +6,7 @@ first_name: Gabriel
 last_name: Valadão Meira
 short_name: Gabriel Meira
 email: gabriel.valadao@dcc.ufmg.br
-importance: 1
+importance: 2
 role: MSc Student
 one_liner: Data Science, Machine Learning, Sports Analytics.
 personal_page: 
