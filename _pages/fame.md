@@ -4,7 +4,9 @@ title: FAME
 nav: true
 nav_order: 7
 dropdown: true
-children: 
+children:
+    - title: Compendiums
+      permalink: /compendiums/
     - title: FAME '24
       permalink: /FAME24/
     - title: FAME '23
