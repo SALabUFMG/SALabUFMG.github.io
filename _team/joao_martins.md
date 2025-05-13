@@ -13,5 +13,5 @@ personal_page:
 scholar_userid: 
 github_username: jalvesmartins
 twitter_username: 
-linkedin_username:
+linkedin_username: jalvesmartins
 ---
