@@ -204,6 +204,15 @@ collections:
   bgf24pal:
     output: true
     permalink: /BGF24/speakers/:path/
+  fame25:
+    output: true
+    permalink: /FAME25/:path/
+  fame25org:
+    output: true
+    permalink: /FAME25/organizacao/:path/
+  fame25pal:
+    output: true
+    permalink: /FAME25/palestrantes/:path/
 
 announcements:
   enabled: true

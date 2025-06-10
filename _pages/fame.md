@@ -7,6 +7,8 @@ dropdown: true
 children:
     - title: Compendiums
       permalink: /compendiums/
+    - title: FAME '25
+      permalink: /FAME25/
     - title: FAME '24
       permalink: /FAME24/
     - title: FAME '23
