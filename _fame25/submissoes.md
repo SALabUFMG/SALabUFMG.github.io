@@ -71,9 +71,9 @@ Avançar as linhas, encurtar o campo, sufocar a saída adversária — pressiona
 Com a integração de dados de rastreamento e eventos, abre-se espaço para investigações profundas sobre como as equipes executam essa abordagem, como ela se relaciona a diferentes contextos de jogo e quais são seus reais custos e benefícios. O objetivo é ampliar o entendimento sobre essa forma de defender que tem ganhado protagonismo no futebol contemporâneo.
 
 Exemplos de trabalhos incluem:
-– Identificação de diferentes formas de pressão alta;
-– Quantificação da eficiência e dos riscos associados;
-– Análise da relação da pressão alta com variáveis contextuais como tempo de jogo, condição física, número de jogadores em campo ou cenário do placar.
+- Identificação de diferentes formas de pressão alta;
+- Quantificação da eficiência e dos riscos associados;
+- Análise da relação da pressão alta com variáveis contextuais como tempo de jogo, condição física, número de jogadores em campo ou cenário do placar.
 
 <hr>
 
