@@ -23,7 +23,7 @@ Se seu projeto de pesquisa não se encaixa em nenhum deles, não se preocupe. To
 ### Submissão
 A submissão consiste no envio de um <strong>resumo de até 1000 palavras</strong> em formato PDF e de acordo com o <a href='https://pt.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr'>template da SBC</a> 
 descrevendo o problema, a metodologia, os resultados e as conclusões do trabalho.
-As submissões devem ser enviadas através <a href='https://forms.gle/yF98u9gbghdCJNt6A'>deste formulário</a> até 12/08/2025, às 23h59.
+As submissões devem ser enviadas através <a href='https://forms.gle/yF98u9gbghdCJNt6A'>deste formulário</a> até 31/07/2025, às 23h59.
 
 <hr>
 
@@ -34,7 +34,7 @@ Além disso, os melhores trabalhos serão convidados para apresentação oral em
 <hr>
 
 ### Datas Importantes
-- **Submissão:** até 12/08/2025 às 23h59
+- **Submissão:** até 31/07/2025 às 23h59
 - **Aceite:** até 25/08/2025 às 23h59
 
 <hr>
