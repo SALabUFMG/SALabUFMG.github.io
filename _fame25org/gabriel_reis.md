@@ -12,6 +12,6 @@ one_liner:
 personal_page: 
 scholar_userid: 
 github_username: 
-twitter_username: 
-linkedin_username: 
+twitter_username:
+linkedin_username: gabrielrgbarbosa
 ---
