@@ -27,9 +27,9 @@ Mais informações sobre a compra de ingressos serão liberadas em breve.
 <hr>
 
 ### Sobre o evento
-- **Data:** A definir, entre os dias 01, 02 e 03 de Setembro de 2025
+- **Data:** 03 de Setembro de 2024
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a>, UFMG - Campus Pampulha
-- **Horário:** A definir
+- **Horário:** 8:30 às 18:30
 
 O <b>Sports Analytics Lab (SALab)</b> do Departamento de Ciência da Computação da UFMG tem o prazer de apresentar a terceira edição do 
 <b>"FAME: Football Analytics and Modeling Experience"</b>, um evento dinâmico destinado a unir a <b>ciência de dados e o futebol</b>. 
