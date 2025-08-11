@@ -20,7 +20,7 @@ Patrocinado por:
         </a>
     </div>
     <div style="width: 45%;">
-        <a href="https://geminisports.ai">
+        <a href="https://onefan.com.br/">
             <img id='onefan-logo' style="width: 100%;" src="../assets/img/FoF/logo_onefan_original.png" alt="OneFan logo">
         </a>
     </div>
