@@ -22,7 +22,7 @@ criar uma parceria personalizada que esteja alinhada com os seus objetivos.
 
 
 ### Ingressos
-Mais informações sobre a compra de ingressos serão liberadas em breve.
+Garanta seu ingresso já para esse evento incrível! <a href='https://www.sympla.com.br/evento/fame-25-football-analytics-modelling-and-experience-2025/3071375'>Clique aqui</a> para comprar seu ingresso e garantir seu lugar.
 
 <hr>
 
