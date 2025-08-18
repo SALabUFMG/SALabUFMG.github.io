@@ -12,11 +12,24 @@ social: true  # includes social icons at the bottom of the page
 <!-- pages/fame25.md -->
 
 ### Patrocínio
+Patrocinado por:
 
-Faça parte do nosso evento extraordinário e mostre o compromisso da sua marca com a excelência. 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='gemini-logo' style="width: 100%;" src="../assets/img/FoF/logo_gemini_original.png" alt="Gemini Sports Analytics logo">
+        </a>
+    </div>
+    <div style="width: 45%;">
+        <a href="https://www.gradientsports.com/">
+            <img id='gradient-logo' style="width: 100%;" src="../assets/img/FoF/logo_gradient_original.png" alt="Gradient Sports logo">
+        </a>
+    </div>
+</div> <br/>
 
-<a href='../sponsorship/'>Clique aqui</a> para explorar os nossos pacotes exclusivos de patrocínio e descubra como podemos 
-criar uma parceria personalizada que esteja alinhada com os seus objetivos.
+Faça parte do nosso evento extraordinário e mostre o compromisso da sua marca com a excelência.
+<a href='../sponsorship/'>Clique aqui</a> para explorar nossos pacotes exclusivos de patrocínio e descubra como podemos
+criar uma parceria personalizada que esteja alinhada com seus objetivos.
 
 <hr>
 
@@ -87,3 +100,26 @@ A programação completa do FAME contará com <b>palestras, painéis e apresenta
 {%- endif -%}
 </div>
 
+
+
+
+
+{::nomarkdown}
+
+<script>
+function toggleImageBasedOnTheme(is_light) {
+    if (is_light) {
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_original.png";
+        document.getElementById("gradient-logo").src = "../assets/img/FoF/logo_gradient_original.png";
+    } else {
+        document.getElementById("gemini-logo").src = "../assets/img/FoF/logo_gemini_branco.png";
+        document.getElementById("gradient-logo").src = "../assets/img/FoF/logo_gradient_branco.png";
+    }
+}
+const mode_toggle = document.getElementById("light-toggle");
+mode_toggle.addEventListener("click", function() {toggleImageBasedOnTheme(localStorage.getItem("theme") === 'dark');});
+
+document.addEventListener("DOMContentLoaded", toggleImageBasedOnTheme(localStorage.getItem("theme") !== 'dark'));
+</script>
+
+{:/nomarkdown}
