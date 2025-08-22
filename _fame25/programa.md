@@ -25,6 +25,8 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="1">9h15-9h45</td>
         <td rowspan="1">Palestra FPF</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="2">9h45-10h30</td>
@@ -39,6 +41,8 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="1">10h30-11h15</td>
         <td rowspan="1">SALab: Sports Analytics Laboratory - UFMG</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="2">11h15-12h</td>
@@ -101,6 +105,8 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="1">16h15-17h15</td>
         <td rowspan="1">Melhores Trabalhos Submetidos (Top 3)</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="3">17h15-18h00</td>
