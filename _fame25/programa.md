@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td rowspan="1">9h15-9h45</td>
-        <td rowspan="1">Palestra FPF</td>
-        <td></td>
-        <td></td>
+        <td rowspan="1">Decisões baseadas em evidência e o potencial dos dados em Federações</td>
+        <td>Guilherme Machado</td>
+        <td>Analista de Integração e Desenvolvimento de Atletas da Federação Paulista de Futebol</td>
     </tr>
     <tr>
         <td rowspan="2">9h45-10h30</td>
