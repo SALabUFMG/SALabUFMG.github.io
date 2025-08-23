@@ -73,7 +73,7 @@ social: true  # includes social icons at the bottom of the page
         <td colspan="3">Intervalo de Almoço</td>
     </tr>
     <tr>
-        <td rowspan="1">14h00-24h45</td>
+        <td rowspan="1">14h00-14h45</td>
         <td colspan="3">Painel à ser definido</td>
     </tr>
     <tr>
