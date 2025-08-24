@@ -50,6 +50,10 @@ O objetivo principal deste evento é criar um ambiente enriquecedor onde alunos,
 possam se conectar, trocar experiências, construir conhecimento e se informar sobre a realidade atual da área de Football Analytics. 
 A programação completa do FAME contará com <b>palestras, painéis e apresentação de trabalhos submetidos</b>. A programação do evento ainda será anunciada!
 
+Além do evento o FAME contará com um workshop prévio no dia 02 de Setembro para aqueles que quiserem ter uma 
+experiência inicial com Ciência de Dados no futebol, o evento contará com uma aula e
+um _hands-on_, caso queira essa experiência sua participação pode ser garantida gratuitamente <a href='https://www.sympla.com.br/evento/workshop-3a-feira-2-set-25-hands-on-ciencia-de-dados-aplicada-ao-futebol-salab/3090596'>neste link</a>.
+
 <hr>
 
 
