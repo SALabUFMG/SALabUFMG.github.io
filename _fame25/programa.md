@@ -23,13 +23,13 @@ social: true  # includes social icons at the bottom of the page
         <td colspan="3">Abertura</td>
     </tr>
     <tr>
-        <td rowspan="1">9h15-9h45</td>
+        <td rowspan="1">9h20-9h50</td>
         <td rowspan="1">Decisões baseadas em evidência e o potencial dos dados em Federações</td>
         <td>Guilherme Machado</td>
         <td>Analista de Integração e Desenvolvimento de Atletas da Federação Paulista de Futebol</td>
     </tr>
     <tr>
-        <td rowspan="2">9h45-10h30</td>
+        <td rowspan="2">9h55-10h25</td>
         <td rowspan="2">Painel: Transversalidade: Como Diferentes Áreas de Conhecimento Enriquecem o Trabalho com Dados no Futebol</td>
         <td>Gabriel Gomide</td>
         <td>Analista de Dados do Cruzeiro</td>
@@ -40,12 +40,10 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td rowspan="1">10h30-11h15</td>
-        <td rowspan="1">SALab: Sports Analytics Laboratory - UFMG</td>
-        <td></td>
-        <td></td>
+        <td colspan="3">SALab: Sports Analytics Laboratory - UFMG</td>
     </tr>
     <tr>
-        <td rowspan="2">11h15-12h</td>
+        <td rowspan="2">11h20-11h50</td>
         <td rowspan="2">Painel: Guiando Departamentos de Dados: Como Priorizar Projetos e Recursos</td>
         <td>Felipe Tricate</td>
         <td>Football Analytics Manager do Coritiba</td>
@@ -55,61 +53,11 @@ social: true  # includes social icons at the bottom of the page
         <td>Coordenador de Analytics do Botafogo</td>
     </tr>
     <tr>
-        <td rowspan="3">12h00-12h30</td>
-        <td rowspan="3">Patrocinador: Gemini Sports Analytics</td>
-        <td>Gabriel Reis</td>
-        <td>Mestrando em Ciência da Computação pela UFMG e Cientista de Dados na Gemini Sports Analytics</td>
-    </tr>
-    <tr>
-        <td>Bruno Martins</td>
-        <td>Mestrando em Ciência da Computação pela UFMG e Cientista de Dados na Gemini Sports Analytics</td>
-    </tr>
-    <tr>
-        <td>João Lucas</td>
-        <td>Mestrando em Ciência da Computação pela UFMG e Cientista de Dados na Gemini Sports Analytics</td>
-    </tr>
-    <tr>
-        <td rowspan="1">12h30-14h00</td>
+        <td rowspan="1">12h00-13h30</td>
         <td colspan="3">Intervalo de Almoço</td>
     </tr>
     <tr>
-        <td rowspan="1">14h00-14h45</td>
-        <td colspan="3">Painel à ser definido</td>
-    </tr>
-    <tr>
-        <td rowspan="1">14h45-16h15</td>
-        <td colspan="3">Coffee Break e Sessão de Posters dos Trabalhos Submetidos Aceitos</td>
-    </tr>
-
-<!-- Melhores trabalhos esperando confirmação
-    <tr>
-        <td rowspan="1">16h15-16h35</td>
-        <td rowspan="1">Melhor Trabalho Submetido: xCross: Um Modelo Probabilístico Para Avaliação de Cruzamentos através da Entropia</td>
-        <td>Jalmir, Vitor Azevedo, Lucas Ramos, Eduardo Tomich, Bernnardo de Oliveira</td>
-        <td>Universidade Federal De Minas Gerais (UFMG)</td>
-    </tr>
-    <tr>
-        <td rowspan="1">16h35-16h55</td>
-        <td rowspan="1">Melhor Trabalho Submetido: Shared Goal Value: Uma Nova Métrica para Avaliar Contribuições em Gols no Futebol</td>
-        <td>Lucas Carneiro Calmon, Pedro Carvalho da Rocha, Balthazar Paixão, Pedro Henrique González,  Glauco Fiorott Amorim,  Jorge de Abreu Soares</td>
-        <td>CEFET-RJ/PESC</td>
-    </tr>
-    <tr>
-        <td rowspan="1">16h55-17:15</td>
-        <td rowspan="1">Melhor Trabalho Submetido: Analysis of Off-Ball Movement in a Counterattack Using Pitch Control and Deep Learning Models</td>
-        <td>Luca Florentino Kosfeld, Bernardo Venancio Cunha Oliveira, Bruno Soares e Silva, Lucas Albuquerque Santos Costa</td>
-        <td>Universidade Federal De Minas Gerais (UFMG)</td>
-    </tr> 
--->
-
-    <tr>
-        <td rowspan="1">16h15-17h15</td>
-        <td rowspan="1">Melhores Trabalhos Submetidos (Top 3)</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan="3">17h15-18h00</td>
+        <td rowspan="3">13h30-14h00</td>
         <td rowspan="3">Painel: Ecossistema de Inovação do Esporte no Brasil: desafios, perspectivas e aplicações práticas em performance e previsão de lesão no futebol</td>
         <td>Adriano Lima</td>
         <td>fisiologista do Fortaleza</td>
@@ -123,7 +71,35 @@ social: true  # includes social icons at the bottom of the page
         <td>Professor da UFMG</td>
     </tr>
     <tr>
-        <td rowspan="1">18h00-18h15</td>
+        <td rowspan="3">14h05-14h35</td>
+        <td rowspan="3">Patrocinador: Gemini Sports</td>
+        <td>Gabriel Reis</td>
+        <td>Mestrando em Ciência da Computação pela UFMG e Cientista de Dados na Gemini Sports</td>
+    </tr>
+    <tr>
+        <td>Bruno Martins</td>
+        <td>Mestrando em Ciência da Computação pela UFMG e Cientista de Dados na Gemini Sports</td>
+    </tr>
+    <tr>
+        <td>João Lucas</td>
+        <td>Mestrando em Ciência da Computação pela UFMG e Cientista de Dados na Gemini Sports</td>
+    </tr>
+    <tr>
+        <td rowspan="1">14h40-15h10</td>
+        <td rowspan="1">Patrocinador: Gradient Sports</td>
+        <td>Alexander Schram</td>
+        <td>Head of Insights & Delivery at Gradient Sports</td>
+    </tr>
+    <tr>
+        <td rowspan="1">15h15-16h25</td>
+        <td colspan="3">Coffee Break e Sessão de Posters dos Trabalhos Submetidos Aceitos</td>
+    </tr>
+    <tr>
+        <td rowspan="1">16h30-17h30</td>
+        <td colspan="3">Melhores Trabalhos Submetidos (Top 3)</td>
+    </tr>
+    <tr>
+        <td rowspan="1">17h30-18h00</td>
         <td colspan="3">Encerramento</td>
     </tr>
 </table>
