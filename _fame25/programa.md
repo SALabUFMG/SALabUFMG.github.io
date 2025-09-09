@@ -60,7 +60,7 @@ social: true  # includes social icons at the bottom of the page
         <td rowspan="3">13h30-14h00</td>
         <td rowspan="3">Painel: Ecossistema de Inovação do Esporte no Brasil: desafios, perspectivas e aplicações práticas em performance e previsão de lesão no futebol</td>
         <td>Adriano Lima</td>
-        <td>fisiologista do Fortaleza</td>
+        <td>Fisiologista do Fortaleza</td>
     </tr>
     <tr>
         <td>João Gustavo Claudino</td>
