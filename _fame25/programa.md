@@ -87,8 +87,8 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="1">14h40-15h10</td>
         <td rowspan="1">Patrocinador: Gradient Sports</td>
-        <td>Alexander Schram</td>
-        <td>Head of Insights & Delivery at Gradient Sports</td>
+        <td>Alexandre Taylor</td>
+        <td>Global Business Development Manager at Gradient Sports</td>
     </tr>
     <tr>
         <td rowspan="1">15h15-16h25</td>
