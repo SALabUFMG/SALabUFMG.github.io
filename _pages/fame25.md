@@ -44,11 +44,10 @@ Garanta seu ingresso já para esse evento incrível! <a href='https://www.sympla
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3</a>, UFMG - Campus Pampulha
 - **Horário:** 8:30 às 18:30
 
-O <b>Sports Analytics Lab (SALab)</b> do Departamento de Ciência da Computação da UFMG tem o prazer de apresentar a terceira edição do 
+O <b>Sports Analytics Lab (SALab)</b> do Departamento de Ciência da Computação da UFMG tem o prazer de apresentar a quarta edição do 
 <b>"FAME: Football Analytics and Modeling Experience"</b>, um evento dinâmico destinado a unir a <b>ciência de dados e o futebol</b>. 
 O objetivo principal deste evento é criar um ambiente enriquecedor onde alunos, professores e profissionais da indústria do futebol 
 possam se conectar, trocar experiências, construir conhecimento e se informar sobre a realidade atual da área de Football Analytics. 
-A programação completa do FAME contará com <b>palestras, painéis e apresentação de trabalhos submetidos</b>. A programação do evento ainda será anunciada!
 
 Além do evento o FAME contará com um workshop prévio no dia 02 de Setembro para aqueles que quiserem ter uma 
 experiência inicial com Ciência de Dados no futebol, o evento contará com uma aula e
