@@ -9,7 +9,7 @@ horizontal: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- pages/fame25.md -->
+<!-- pages/fame26.md -->
 
 ### Patrocínio
 Faça parte do nosso evento extraordinário e mostre o compromisso da sua marca com a excelência.
@@ -33,3 +33,53 @@ Mais do que um evento, o FAME é o ponto de encontro entre a ciência de dados e
 Nosso propósito é integrar alunos, acadêmicos e especialistas do mercado em um ambiente de troca mútua, focado nas tendências e na realidade do Football Analytics. Prepare-se para uma imersão com palestras, painéis e apresentações de trabalhos.
 
 Fique atento nas nossas redes sociais, pois a programação oficial ainda será revelada!
+
+<hr>
+
+
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.fame26 | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+{%- assign sorted_projects = site.fame26 | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+{% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
+</div>

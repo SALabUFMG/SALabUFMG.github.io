@@ -213,6 +213,15 @@ collections:
   fame25pal:
     output: true
     permalink: /FAME25/palestrantes/:path/
+  fame26:
+    output: true
+    permalink: /FAME26/:path/
+  fame26org:
+    output: true
+    permalink: /FAME26/organizacao/:path/
+  fame26pal:
+    output: true
+    permalink: /FAME26/palestrantes/:path/
 
 announcements:
   enabled: true
