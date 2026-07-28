@@ -12,6 +12,9 @@ social: true  # includes social icons at the bottom of the page
 <div class="compendiums">
 
 <a href="/assets/pdf/FAME/2023/Compendio-Anais-FAME23.pdf"><h3> FAME '23 </h3></a>
+<a href="/assets/pdf/FAME/2024/compendio_fame_24.pdf"><h3> FAME '24 </h3></a>
+<a href="/assets/pdf/FAME/2025/compendio_fame_25.pdf"><h3> FAME '25 </h3></a>
 
 
 </div>
+
