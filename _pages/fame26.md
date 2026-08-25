@@ -26,7 +26,7 @@ Mais informações sobre os ingressos serão divulgadas em breve. Fique atento �
 ### Sobre o evento
 - **Data:** 28 de Setembro de 2026
 - **Local:** <a href='https://maps.app.goo.gl/DvN4WFp6hKDvHia36'>Centro de Atividades Didáticas 3, UFMG Campus Pampulha</a> - Belo Horizonte / MG
-- **Horário:** Não definido
+- **Horário:** 8:30 às 18:00
 
 O Sports Analytics Lab (SALab), do Departamento de Ciência da Computação da UFMG, convida você para a quinta edição do "FAME: Football Analytics and Modeling Experience". 
 Mais do que um evento, o FAME é o ponto de encontro entre a ciência de dados e a paixão pelo futebol. 
