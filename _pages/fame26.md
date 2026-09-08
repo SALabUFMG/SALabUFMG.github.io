@@ -12,7 +12,20 @@ social: true  # includes social icons at the bottom of the page
 <!-- pages/fame26.md -->
 
 ### Patrocínio
+Patrocinado por:
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 45%;">
+        <a href="https://geminisports.ai">
+            <img id='gemini-logo' style="width: 100%;" src="../assets/img/FoF/logo_gemini_original.png" alt="Gemini Sports Analytics logo">
+        </a>
+    </div>
+</div> <br/>
+
 Faça parte do nosso evento extraordinário e mostre o compromisso da sua marca com a excelência.
+<a href='../sponsorship/'>Clique aqui</a> para explorar nossos pacotes exclusivos de patrocínio e descubra como podemos
+criar uma parceria personalizada que esteja alinhada com seus objetivos.
+
 Entre em contato por meio do email <a href="mailto:salab.dcc.ufmg@gmail.com">salab.dcc.ufmg@gmail.com</a> para mais detalhes sobre ser avançar nesta parceria.
 
 <hr>
@@ -20,6 +33,8 @@ Entre em contato por meio do email <a href="mailto:salab.dcc.ufmg@gmail.com">sal
 
 ### Ingressos
 Mais informações sobre os ingressos serão divulgadas em breve. Fique atento às nossas redes sociais para não perder nenhuma atualização!
+
+Abertura das vendas: <b>8 de setembro de 2026<b>
 
 <hr>
 
