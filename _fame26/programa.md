@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
         <td rowspan="3">9h20 - 10h00</td>
         <td rowspan="3">Painel: História do Football Analytics</td>
         <td>Felipe Tricarte</td>
-        <td>Football Analytics Manager no Coritiba SAF</td>
+        <td>Gerente de Análise de Futebol no Coritiba SAF</td>
     </tr>
     <tr>
         <td>Teo Benjamin</td>
@@ -34,17 +34,17 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td>Caio Batatinha</td>
-        <td>Senior Data Scientist no RB Bragantino</td>
+        <td>Cientista de Dados Sênior no RB Bragantino</td>
     </tr>
     <tr>
         <td rowspan="3">10h05 - 10h50</td>
         <td rowspan="3">Apresentação: SALab MLSA - Novidades e Publicações da área</td>
         <td>João Henrique Martins</td>
-        <td>—</td>
+        <td>Pesquisador no SALab</td>
     </tr>
     <tr>
         <td>Jalmir Ferreira</td>
-        <td>—</td>
+        <td>Pesquisador no SALab</td>
     </tr>
     <tr>
         <td>Gabriel Reis</td>
@@ -62,13 +62,13 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td>Leo Sá Freire</td>
-        <td>Head of Analytics no Atlético Mineiro</td>
+        <td>Chefe de Análise de Dados no Atlético Mineiro</td>
     </tr>
     <tr>
         <td rowspan="1">11h45 - 12h15</td>
         <td>Apresentação: Modelagem do Mercado com Grafos</td>
         <td>Thiago Costa Porto</td>
-        <td>Data Scientist na Atalanta</td>
+        <td>Cientista de Dados na Atalanta</td>
     </tr>
     <tr>
         <td rowspan="1">12h15 - 13h30</td>
