@@ -23,30 +23,52 @@ social: true  # includes social icons at the bottom of the page
         <td colspan="3">Abertura</td>
     </tr>
     <tr>
-        <td rowspan="1">9h20 - 10h00</td>
-        <td>Painel: História do Football Analytics</td>
+        <td rowspan="3">9h20 - 10h00</td>
+        <td rowspan="3">Painel: História do Football Analytics</td>
         <td>Felipe Tricarte</td>
+        <td>Football Analytics Manager no Coritiba SAF</td>
+    </tr>
+    <tr>
+        <td>Teo Benjamin</td>
+        <td><a href="https://www.linkedin.com/company/1225582/">Gerente de Análise de Dados no Flamengo</a></td>
+    </tr>
+    <tr>
+        <td>Caio Batatinha</td>
+        <td>Senior Data Scientist no RB Bragantino</td>
+    </tr>
+    <tr>
+        <td rowspan="3">10h05 - 10h50</td>
+        <td rowspan="3">Apresentação: SALab MLSA - Novidades e Publicações da área</td>
+        <td>João Henrique Martins</td>
         <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">10h05 - 10h50</td>
-        <td>Apresentação: SALab MLSA - Novidades e Publicações da área</td>
-        <td>João Henrique Martins</td>
         <td>Jalmir Ferreira</td>
-        <td>Gabriel Reis</td>
-        <td>Leo Sá Freire</td>
+        <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">10h55 - 11h40</td>
-        <td>Painel: Desafios Atuais: Modelagem vs. Teoria e o Dia a Dia</td>
+        <td>Gabriel Reis</td>
+        <td>Cientista de Dados no Flamengo</td>
+    </tr>
+    <tr>
+        <td rowspan="3">10h55 - 11h40</td>
+        <td rowspan="3">Painel: Desafios Atuais: Modelagem vs. Teoria e o Dia a Dia</td>
         <td>Rodrigo Leitão</td>
+        <td>Treinador de Desenvolvimento Individual do Futebol Profissional no Atlético-MG</td>
+    </tr>
+    <tr>
         <td>Leandro Zago</td>
+        <td>Treinador de Futebol</td>
+    </tr>
+    <tr>
+        <td>Leo Sá Freire</td>
+        <td>Head of Analytics no Atlético Mineiro</td>
     </tr>
     <tr>
         <td rowspan="1">11h45 - 12h15</td>
         <td>Apresentação: Modelagem do Mercado com Grafos</td>
         <td>Thiago Costa Porto</td>
-        <td>—</td>
+        <td>Data Scientist na Atalanta</td>
     </tr>
     <tr>
         <td rowspan="1">12h15 - 13h30</td>
@@ -56,7 +78,7 @@ social: true  # includes social icons at the bottom of the page
         <td rowspan="1">13h30 - 14h00</td>
         <td>Apresentação: Tema de mídia</td>
         <td>Arthur Tavares</td>
-        <td>—</td>
+        <td>Cientista de Dados na CazéTV</td>
     </tr>
     <tr>
         <td rowspan="1">14h05 - 14h35</td>
@@ -65,11 +87,18 @@ social: true  # includes social icons at the bottom of the page
         <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">14h40 - 15h10</td>
-        <td>Painel: Futuro da área: Impactos da IA e relevância crescente dos dados</td>
-        <td>Pedro Gonzáles</td>
-        <td>José Rodrigo Maciel</td>
+        <td rowspan="3">14h40 - 15h10</td>
+        <td rowspan="3">Painel: Futuro da área: Impactos da IA e relevância crescente dos dados</td>
+        <td>Pedro H. González</td>
+        <td>Professor da UFRJ</td>
+    </tr>
+    <tr>
+        <td>José Maciel</td>
+        <td>Coordenador de Processos da Base do Flamengo</td>
+    </tr>
+    <tr>
         <td>Bruno Sá Freire</td>
+        <td>Cientista de Dados no AS Monaco</td>
     </tr>
     <tr>
         <td rowspan="1">15h15 - 16h25</td>
