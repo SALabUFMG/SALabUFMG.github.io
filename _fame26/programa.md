@@ -30,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
     </tr>
     <tr>
         <td>Teo Benjamin</td>
-        <td>Gerente de Análise de Dados no Flamengo</a></td>
+        <td>Gerente de Análise de Dados no Flamengo</td>
     </tr>
     <tr>
         <td>Caio Batatinha</td>
