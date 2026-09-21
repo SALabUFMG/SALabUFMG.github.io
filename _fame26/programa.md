@@ -83,8 +83,8 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="1">14h05 - 14h35</td>
         <td>Patrocinador: Gemini Sports</td>
-        <td>—</td>
-        <td>—</td>
+        <td>Raniel Silva</td>
+        <td>Engenheiro Líder de IA na Gemini</td>
     </tr>
     <tr>
         <td rowspan="3">14h40 - 15h10</td>
