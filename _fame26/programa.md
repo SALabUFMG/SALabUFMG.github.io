@@ -33,7 +33,7 @@ social: true  # includes social icons at the bottom of the page
         <td>Gerente de Análise de Dados no Flamengo</td>
     </tr>
     <tr>
-        <td>Caio Batatinha</td>
+        <td>Caio Batatinha (moderador)</td>
         <td>Cientista de Dados Sênior no RB Bragantino</td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ social: true  # includes social icons at the bottom of the page
         <td>Treinador de Futebol</td>
     </tr>
     <tr>
-        <td>Leo Sá Freire</td>
+        <td>Leo Sá Freire (moderador)</td>
         <td>Chefe de Análise de Dados no Atlético Mineiro</td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@ social: true  # includes social icons at the bottom of the page
         <td>Cientista de Dados no AS Monaco</td>
     </tr>
     <tr>
-        <td>Gabriel Reis</td>
+        <td>Gabriel Reis (moderador)</td>
         <td>Cientista de Dados no Flamengo</td>
     </tr>
     <tr>
