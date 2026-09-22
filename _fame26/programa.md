@@ -51,7 +51,7 @@ social: true  # includes social icons at the bottom of the page
         <td>Cientista de Dados no Flamengo</td>
     </tr>
     <tr>
-        <td rowspan="3">10h55 - 11h40</td>
+        <td rowspan="3">10h55 - 11h55</td>
         <td rowspan="3">Painel: Desafios Atuais: Modelagem vs. Teoria e o Dia a Dia</td>
         <td>Rodrigo Leitão</td>
         <td>Treinador de Desenvolvimento Individual do Futebol Profissional no Atlético-MG</td>
@@ -65,30 +65,30 @@ social: true  # includes social icons at the bottom of the page
         <td>Chefe de Análise de Dados no Atlético Mineiro</td>
     </tr>
     <tr>
-        <td rowspan="1">11h45 - 12h15</td>
+        <td rowspan="1">12h00 - 12h30</td>
         <td>Apresentação: Modelagem do Mercado com Grafos</td>
         <td>Thiago Costa Porto</td>
         <td>Cientista de Dados na Atalanta</td>
     </tr>
     <tr>
-        <td rowspan="1">12h15 - 13h30</td>
+        <td rowspan="1">12h30 - 13h45</td>
         <td colspan="3">Intervalo de Almoço</td>
     </tr>
     <tr>
-        <td rowspan="1">13h30 - 14h00</td>
+        <td rowspan="1">13h45 - 14h15</td>
         <td>Apresentação: Tema de mídia</td>
         <td>Arthur Tavares</td>
         <td>Cientista de Dados na CazéTV</td>
     </tr>
     <tr>
-        <td rowspan="1">14h05 - 14h35</td>
+        <td rowspan="1">14h20 - 14h50</td>
         <td>Patrocinador: Gemini Sports</td>
         <td>Raniel Silva</td>
         <td>Engenheiro Líder de IA na Gemini</td>
     </tr>
     <tr>
-        <td rowspan="3">14h40 - 15h10</td>
-        <td rowspan="3">Painel: Futuro da área: Impactos da IA e relevância crescente dos dados</td>
+        <td rowspan="4">14h55 - 15h35</td>
+        <td rowspan="4">Painel: Futuro da área: Impactos da IA e relevância crescente dos dados</td>
         <td>Pedro H. González</td>
         <td>Professor da UFRJ</td>
     </tr>
@@ -101,19 +101,23 @@ social: true  # includes social icons at the bottom of the page
         <td>Cientista de Dados no AS Monaco</td>
     </tr>
     <tr>
-        <td rowspan="1">15h15 - 16h25</td>
+        <td>Gabriel Reis</td>
+        <td>Cientista de Dados no Flamengo</td>
+    </tr>
+    <tr>
+        <td rowspan="1">15h40 - 16h50</td>
         <td>Coffee Break e Sessão de Posters TBA</td>
         <td>—</td>
         <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">16h30 - 17h30</td>
+        <td rowspan="1">16h55 - 17h55</td>
         <td>Melhores Trabalhos Submetidos (Top 3)</td>
         <td>—</td>
         <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">17h30 - 18h00</td>
+        <td rowspan="1">17h55 - 18h00</td>
         <td colspan="3">Encerramento</td>
     </tr>
 </table>
