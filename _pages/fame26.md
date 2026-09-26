@@ -30,11 +30,16 @@ Entre em contato por meio do email <a href="mailto:salab.dcc.ufmg@gmail.com">sal
 
 <hr>
 
-
 ### Ingressos
 Mais informações sobre os ingressos serão divulgadas em breve. Fique atento às nossas redes sociais para não perder nenhuma atualização!
 
-Abertura das vendas: <b>8 de setembro de 2026<b>
+Abertura das vendas: <b>8 de setembro de 2026</b>
+
+<p style="margin-top: 15px;">
+  <a href="SEU_LINK_DO_SYMPLA_AQUI" target="_blank" style="font-size: 1.2em; font-weight: bold; text-transform: uppercase;">
+    CLIQUE AQUI PARA GARANTIR SUA INSCRIÇÃO NO SYMPLA
+  </a>
+</p>
 
 <hr>
 
