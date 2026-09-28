@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
     <tr>
         <td rowspan="3">9h15 - 10h00</td>
         <td rowspan="3">Painel: História do Football Analytics</td>
-        <td>Felipe Tricarte</td>
+        <td>Felipe Tricate</td>
         <td>Gerente de Análise de Futebol no Coritiba SAF</td>
     </tr>
     <tr>
@@ -75,13 +75,13 @@ social: true  # includes social icons at the bottom of the page
         <td colspan="3">Intervalo de Almoço</td>
     </tr>
     <tr>
-        <td rowspan="1">13h55 - 14h25</td>
+        <td rowspan="1">14h00 - 14h30</td>
         <td>Apresentação: Tema de mídia</td>
         <td>Arthur Tavares</td>
         <td>Cientista de Dados na CazéTV</td>
     </tr>
     <tr>
-        <td rowspan="1">14h30 - 14h40</td>
+        <td rowspan="1">14h35 - 14h45</td>
         <td>Patrocinador: Gemini Sports</td>
         <td>Raniel Silva</td>
         <td>Engenheiro Líder de IA na Gemini</td>
