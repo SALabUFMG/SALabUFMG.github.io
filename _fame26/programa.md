@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
         <td colspan="3">Abertura</td>
     </tr>
     <tr>
-        <td rowspan="3">9h20 - 10h00</td>
+        <td rowspan="3">9h15 - 10h00</td>
         <td rowspan="3">Painel: História do Football Analytics</td>
-        <td>Felipe Tricarte</td>
+        <td>Felipe Tricate</td>
         <td>Gerente de Análise de Futebol no Coritiba SAF</td>
     </tr>
     <tr>
@@ -33,11 +33,11 @@ social: true  # includes social icons at the bottom of the page
         <td>Gerente de Análise de Dados no Flamengo</td>
     </tr>
     <tr>
-        <td>Caio Batatinha</td>
+        <td>Caio Batatinha (moderador)</td>
         <td>Cientista de Dados Sênior no RB Bragantino</td>
     </tr>
     <tr>
-        <td rowspan="3">10h05 - 10h50</td>
+        <td rowspan="3">10h10 - 10h55</td>
         <td rowspan="3">Apresentação: SALab MLSA - Novidades e Publicações da área</td>
         <td>João Henrique Martins</td>
         <td>Pesquisador no SALab</td>
@@ -51,7 +51,7 @@ social: true  # includes social icons at the bottom of the page
         <td>Cientista de Dados no Flamengo</td>
     </tr>
     <tr>
-        <td rowspan="3">10h55 - 11h40</td>
+        <td rowspan="3">11h00 - 12h00</td>
         <td rowspan="3">Painel: Desafios Atuais: Modelagem vs. Teoria e o Dia a Dia</td>
         <td>Rodrigo Leitão</td>
         <td>Treinador de Desenvolvimento Individual do Futebol Profissional no Atlético-MG</td>
@@ -61,34 +61,34 @@ social: true  # includes social icons at the bottom of the page
         <td>Treinador de Futebol</td>
     </tr>
     <tr>
-        <td>Leo Sá Freire</td>
+        <td>Leo Sá Freire (moderador)</td>
         <td>Chefe de Análise de Dados no Atlético Mineiro</td>
     </tr>
     <tr>
-        <td rowspan="1">11h45 - 12h15</td>
+        <td rowspan="1">12h05 - 12h45</td>
         <td>Apresentação: Modelagem do Mercado com Grafos</td>
         <td>Thiago Costa Porto</td>
         <td>Cientista de Dados na Atalanta</td>
     </tr>
     <tr>
-        <td rowspan="1">12h15 - 13h30</td>
+        <td rowspan="1">12h45 - 14h00</td>
         <td colspan="3">Intervalo de Almoço</td>
     </tr>
     <tr>
-        <td rowspan="1">13h30 - 14h00</td>
+        <td rowspan="1">14h00 - 14h30</td>
         <td>Apresentação: Tema de mídia</td>
         <td>Arthur Tavares</td>
         <td>Cientista de Dados na CazéTV</td>
     </tr>
     <tr>
-        <td rowspan="1">14h05 - 14h35</td>
+        <td rowspan="1">14h35 - 14h45</td>
         <td>Patrocinador: Gemini Sports</td>
-        <td>—</td>
-        <td>—</td>
+        <td>Raniel Silva</td>
+        <td>Engenheiro Líder de IA na Gemini</td>
     </tr>
     <tr>
-        <td rowspan="3">14h40 - 15h10</td>
-        <td rowspan="3">Painel: Futuro da área: Impactos da IA e relevância crescente dos dados</td>
+        <td rowspan="4">14h45 - 15h35</td>
+        <td rowspan="4">Painel: Futuro da área: Impactos da IA e relevância crescente dos dados</td>
         <td>Pedro H. González</td>
         <td>Professor da UFRJ</td>
     </tr>
@@ -101,19 +101,23 @@ social: true  # includes social icons at the bottom of the page
         <td>Cientista de Dados no AS Monaco</td>
     </tr>
     <tr>
-        <td rowspan="1">15h15 - 16h25</td>
+        <td>Gabriel Reis (moderador)</td>
+        <td>Cientista de Dados no Flamengo</td>
+    </tr>
+    <tr>
+        <td rowspan="1">15h40 - 16h50</td>
         <td>Coffee Break e Sessão de Posters TBA</td>
         <td>—</td>
         <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">16h30 - 17h30</td>
+        <td rowspan="1">16h55 - 17h55</td>
         <td>Melhores Trabalhos Submetidos (Top 3)</td>
         <td>—</td>
         <td>—</td>
     </tr>
     <tr>
-        <td rowspan="1">17h30 - 18h00</td>
+        <td rowspan="1">17h55 - 18h00</td>
         <td colspan="3">Encerramento</td>
     </tr>
 </table>
